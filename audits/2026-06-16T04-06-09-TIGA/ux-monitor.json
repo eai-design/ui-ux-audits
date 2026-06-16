@@ -1,0 +1,3094 @@
+{
+  "exportedAt": "2026-06-16T04:06:09.244Z",
+  "tool": "UI/UX Internal Monitor",
+  "version": "2.1.0",
+  "note": "Complete local UI/UX analysis package. No external AI/API was called.",
+  "sessions": [
+    {
+      "events": [
+        {
+          "deadClick": true,
+          "label": "新的生成 新聞稿 針對 [特定政策/活動]，起草一份對外發布的官方新聞稿 公文公函 撰寫一份指引性傳閱公函，對象為所有政府部門，內容需包含培訓工作坊的對象、時間",
+          "rageClick": false,
+          "selector": "div.flex-1.min-w-0 > div.flex.flex-col > div.flex-1.overflow-y-auto:nth-of-type(1) > div.w-full.max-w-3xl",
+          "tagName": "div",
+          "timestamp": 1427,
+          "type": "click",
+          "x": 721,
+          "y": 194
+        },
+        {
+          "deadClick": false,
+          "label": "新的生成",
+          "rageClick": false,
+          "selector": "div.overflow-y-auto.shrink-0:nth-of-type(2) > div.px-3.pt-3:nth-of-type(1) > div.space-y-0.5 > button.cursor-pointer.w-full",
+          "tagName": "button",
+          "timestamp": 7118,
+          "type": "click",
+          "x": 96,
+          "y": 74
+        }
+      ],
+      "iconSnapshot": {
+        "capturedAt": "2026-06-16T03:39:24.146Z",
+        "classBasedIcons": [
+          {
+            "className": "lucide lucide-panel-left-close w-4 h-4",
+            "color": "lab(65.6464 1.53497 -5.42429)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "16px",
+            "label": "收合側邊欄",
+            "lineHeight": "24px",
+            "selector": "aside.flex-col.h-dvh > div.h-10.flex:nth-of-type(1) > button.cursor-pointer.p-1 > svg.lucide.lucide-panel-left-close",
+            "size": {
+              "height": 16,
+              "width": 16
+            },
+            "tagName": "svg"
+          },
+          {
+            "className": "lucide lucide-sparkles w-4 h-4 shrink-0 text-[#1a1a1a] dark:text-zinc-100",
+            "color": "rgb(26, 26, 26)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "14px",
+            "label": "新的生成",
+            "lineHeight": "20px",
+            "selector": "div.px-3.pt-3:nth-of-type(1) > div.space-y-0.5 > button.cursor-pointer.w-full > svg.lucide.lucide-sparkles",
+            "size": {
+              "height": 16,
+              "width": 16
+            },
+            "tagName": "svg"
+          },
+          {
+            "className": "truncate",
+            "color": "rgb(26, 26, 26)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "14px",
+            "label": "新的生成",
+            "lineHeight": "20px",
+            "selector": "div.px-3.pt-3:nth-of-type(1) > div.space-y-0.5 > button.cursor-pointer.w-full > span.truncate",
+            "size": {
+              "height": 20,
+              "width": 56
+            },
+            "tagName": "span"
+          },
+          {
+            "className": "lucide lucide-languages w-4 h-4 shrink-0 text-zinc-400 dark:text-zinc-500",
+            "color": "lab(65.6464 1.53497 -5.42429)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "14px",
+            "label": "翻譯",
+            "lineHeight": "20px",
+            "selector": "div.px-3.pt-3:nth-of-type(2) > div.space-y-0.5 > button.cursor-pointer.w-full > svg.lucide.lucide-languages",
+            "size": {
+              "height": 16,
+              "width": 16
+            },
+            "tagName": "svg"
+          },
+          {
+            "className": "truncate",
+            "color": "lab(35.1166 1.78212 -6.1173)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "14px",
+            "label": "翻譯",
+            "lineHeight": "20px",
+            "selector": "div.px-3.pt-3:nth-of-type(2) > div.space-y-0.5 > button.cursor-pointer.w-full > span.truncate",
+            "size": {
+              "height": 20,
+              "width": 28
+            },
+            "tagName": "span"
+          },
+          {
+            "className": "lucide lucide-database text-emerald-600",
+            "color": "lab(55.0481 -49.9246 15.93)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "16px",
+            "label": "請幫我撰寫一份關於【公共部門人工智能應用培訓工作坊】的指引性傳閱公函，對象為【所有政府部門】，內容需包含【培訓工作坊的對象、時間、地點、形式等，列點式產出】。 ",
+            "lineHeight": "24px",
+            "selector": "button.w-full.flex:nth-of-type(1) > div.inline-flex.items-center:nth-of-type(1) > div.relative.inline-flex > svg.lucide.lucide-database",
+            "size": {
+              "height": 16,
+              "width": 16
+            },
+            "tagName": "svg"
+          },
+          {
+            "className": "lucide lucide-check text-white",
+            "color": "rgb(255, 255, 255)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "16px",
+            "label": "請幫我撰寫一份關於【公共部門人工智能應用培訓工作坊】的指引性傳閱公函，對象為【所有政府部門】，內容需包含【培訓工作坊的對象、時間、地點、形式等，列點式產出】。 ",
+            "lineHeight": "24px",
+            "selector": "div.inline-flex.items-center:nth-of-type(1) > div.relative.inline-flex > div.absolute.-bottom-0.5 > svg.lucide.lucide-check",
+            "size": {
+              "height": 6,
+              "width": 6
+            },
+            "tagName": "svg"
+          },
+          {
+            "className": "lucide lucide-x w-3 h-3",
+            "color": "lab(65.6464 1.53497 -5.42429)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "16px",
+            "label": "刪除對話",
+            "lineHeight": "24px",
+            "selector": "div.space-y-0.5:nth-of-type(2) > button.w-full.flex:nth-of-type(1) > a.flex.md:opacity-0 > svg.lucide.lucide-x",
+            "size": {
+              "height": 12,
+              "width": 12
+            },
+            "tagName": "svg"
+          },
+          {
+            "className": "lucide lucide-database text-emerald-600",
+            "color": "lab(55.0481 -49.9246 15.93)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "16px",
+            "label": "為局長撰寫出席「澳門大學公共行政培訓中心啟用儀式暨首屆公務人員領導力培訓班開課典禮」的 3 分鐘致辭稿。 2026-06-15 18:37:44",
+            "lineHeight": "24px",
+            "selector": "button.w-full.flex:nth-of-type(2) > div.inline-flex.items-center:nth-of-type(1) > div.relative.inline-flex > svg.lucide.lucide-database",
+            "size": {
+              "height": 16,
+              "width": 16
+            },
+            "tagName": "svg"
+          },
+          {
+            "className": "lucide lucide-check text-white",
+            "color": "rgb(255, 255, 255)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "16px",
+            "label": "為局長撰寫出席「澳門大學公共行政培訓中心啟用儀式暨首屆公務人員領導力培訓班開課典禮」的 3 分鐘致辭稿。 2026-06-15 18:37:44",
+            "lineHeight": "24px",
+            "selector": "div.inline-flex.items-center:nth-of-type(1) > div.relative.inline-flex > div.absolute.-bottom-0.5 > svg.lucide.lucide-check",
+            "size": {
+              "height": 6,
+              "width": 6
+            },
+            "tagName": "svg"
+          },
+          {
+            "className": "lucide lucide-x w-3 h-3",
+            "color": "lab(65.6464 1.53497 -5.42429)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "16px",
+            "label": "刪除對話",
+            "lineHeight": "24px",
+            "selector": "div.space-y-0.5:nth-of-type(2) > button.w-full.flex:nth-of-type(2) > a.flex.md:opacity-0 > svg.lucide.lucide-x",
+            "size": {
+              "height": 12,
+              "width": 12
+            },
+            "tagName": "svg"
+          },
+          {
+            "className": "lucide lucide-database text-emerald-600",
+            "color": "lab(55.0481 -49.9246 15.93)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "16px",
+            "label": "幫我針對優化本澳公務人員跨部門橫向調動機制以提升公共行政效能之課題生成一份專業的行政法務類書面質詢稿件。內文需要闡明目前制度或執行上的爭議點，並向相關權責部門提",
+            "lineHeight": "24px",
+            "selector": "button.w-full.flex:nth-of-type(3) > div.inline-flex.items-center:nth-of-type(1) > div.relative.inline-flex > svg.lucide.lucide-database",
+            "size": {
+              "height": 16,
+              "width": 16
+            },
+            "tagName": "svg"
+          },
+          {
+            "className": "lucide lucide-check text-white",
+            "color": "rgb(255, 255, 255)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "16px",
+            "label": "幫我針對優化本澳公務人員跨部門橫向調動機制以提升公共行政效能之課題生成一份專業的行政法務類書面質詢稿件。內文需要闡明目前制度或執行上的爭議點，並向相關權責部門提",
+            "lineHeight": "24px",
+            "selector": "div.inline-flex.items-center:nth-of-type(1) > div.relative.inline-flex > div.absolute.-bottom-0.5 > svg.lucide.lucide-check",
+            "size": {
+              "height": 6,
+              "width": 6
+            },
+            "tagName": "svg"
+          },
+          {
+            "className": "lucide lucide-x w-3 h-3",
+            "color": "lab(65.6464 1.53497 -5.42429)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "16px",
+            "label": "刪除對話",
+            "lineHeight": "24px",
+            "selector": "div.space-y-0.5:nth-of-type(2) > button.w-full.flex:nth-of-type(3) > a.flex.md:opacity-0 > svg.lucide.lucide-x",
+            "size": {
+              "height": 12,
+              "width": 12
+            },
+            "tagName": "svg"
+          },
+          {
+            "className": "lucide lucide-swords text-yellow-500",
+            "color": "lab(76.3898 14.5258 98.4589)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "16px",
+            "label": "請幫我撰寫一份關於【公共部門人工智能應用培訓工作坊】的指引性傳閱公函，對象為【所有政府部門】，內容需包含【培訓工作坊的對象、時間、地點、形式等，列點式產出】。 ",
+            "lineHeight": "24px",
+            "selector": "button.w-full.flex:nth-of-type(4) > div.inline-flex.items-center:nth-of-type(1) > div.relative.inline-flex > svg.lucide.lucide-swords",
+            "size": {
+              "height": 16,
+              "width": 16
+            },
+            "tagName": "svg"
+          },
+          {
+            "className": "lucide lucide-x w-3 h-3",
+            "color": "lab(65.6464 1.53497 -5.42429)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "16px",
+            "label": "刪除對話",
+            "lineHeight": "24px",
+            "selector": "div.space-y-0.5:nth-of-type(2) > button.w-full.flex:nth-of-type(4) > a.flex.md:opacity-0 > svg.lucide.lucide-x",
+            "size": {
+              "height": 12,
+              "width": 12
+            },
+            "tagName": "svg"
+          },
+          {
+            "className": "lucide lucide-swords text-yellow-500",
+            "color": "lab(76.3898 14.5258 98.4589)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "16px",
+            "label": "行政公職局將於下週二召開記者會，正式推出「一戶通」手機應用程式的 2026 年度重大升級。本次升級核心亮點為「全面引入 AI 智能客服」，市民可透過語音直接查詢",
+            "lineHeight": "24px",
+            "selector": "button.w-full.flex:nth-of-type(5) > div.inline-flex.items-center:nth-of-type(1) > div.relative.inline-flex > svg.lucide.lucide-swords",
+            "size": {
+              "height": 16,
+              "width": 16
+            },
+            "tagName": "svg"
+          },
+          {
+            "className": "lucide lucide-x w-3 h-3",
+            "color": "lab(65.6464 1.53497 -5.42429)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "16px",
+            "label": "刪除對話",
+            "lineHeight": "24px",
+            "selector": "div.space-y-0.5:nth-of-type(2) > button.w-full.flex:nth-of-type(5) > a.flex.md:opacity-0 > svg.lucide.lucide-x",
+            "size": {
+              "height": 12,
+              "width": 12
+            },
+            "tagName": "svg"
+          },
+          {
+            "className": "lucide lucide-database text-red-500",
+            "color": "lab(55.4814 75.0732 48.8528)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "16px",
+            "label": "行政公職局將於下週二召開記者會，正式推出「一戶通」手機應用程式的 2026 年度重大升級。本次升級核心亮點為「全面引入 AI 智能客服」，市民可透過語音直接查詢",
+            "lineHeight": "24px",
+            "selector": "button.w-full.flex:nth-of-type(6) > div.inline-flex.items-center:nth-of-type(1) > div.relative.inline-flex > svg.lucide.lucide-database",
+            "size": {
+              "height": 16,
+              "width": 16
+            },
+            "tagName": "svg"
+          },
+          {
+            "className": "lucide lucide-x text-white",
+            "color": "rgb(255, 255, 255)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "16px",
+            "label": "行政公職局將於下週二召開記者會，正式推出「一戶通」手機應用程式的 2026 年度重大升級。本次升級核心亮點為「全面引入 AI 智能客服」，市民可透過語音直接查詢",
+            "lineHeight": "24px",
+            "selector": "div.inline-flex.items-center:nth-of-type(1) > div.relative.inline-flex > div.absolute.-bottom-0.5 > svg.lucide.lucide-x",
+            "size": {
+              "height": 6,
+              "width": 6
+            },
+            "tagName": "svg"
+          },
+          {
+            "className": "lucide lucide-x w-3 h-3",
+            "color": "lab(65.6464 1.53497 -5.42429)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "16px",
+            "label": "刪除對話",
+            "lineHeight": "24px",
+            "selector": "div.space-y-0.5:nth-of-type(2) > button.w-full.flex:nth-of-type(6) > a.flex.md:opacity-0 > svg.lucide.lucide-x",
+            "size": {
+              "height": 12,
+              "width": 12
+            },
+            "tagName": "svg"
+          },
+          {
+            "className": "lucide lucide-database text-emerald-600",
+            "color": "lab(55.0481 -49.9246 15.93)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "16px",
+            "label": "請幫我撰寫一份關於【公共部門人工智能應用培訓工作坊】的指引性傳閱公函，對象為【所有政府部門】，內容需包含【培訓工作坊的對象、時間、地點、形式等，列點式產出】。 ",
+            "lineHeight": "24px",
+            "selector": "button.w-full.flex:nth-of-type(7) > div.inline-flex.items-center:nth-of-type(1) > div.relative.inline-flex > svg.lucide.lucide-database",
+            "size": {
+              "height": 16,
+              "width": 16
+            },
+            "tagName": "svg"
+          },
+          {
+            "className": "lucide lucide-check text-white",
+            "color": "rgb(255, 255, 255)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "16px",
+            "label": "請幫我撰寫一份關於【公共部門人工智能應用培訓工作坊】的指引性傳閱公函，對象為【所有政府部門】，內容需包含【培訓工作坊的對象、時間、地點、形式等，列點式產出】。 ",
+            "lineHeight": "24px",
+            "selector": "div.inline-flex.items-center:nth-of-type(1) > div.relative.inline-flex > div.absolute.-bottom-0.5 > svg.lucide.lucide-check",
+            "size": {
+              "height": 6,
+              "width": 6
+            },
+            "tagName": "svg"
+          },
+          {
+            "className": "lucide lucide-x w-3 h-3",
+            "color": "lab(65.6464 1.53497 -5.42429)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "16px",
+            "label": "刪除對話",
+            "lineHeight": "24px",
+            "selector": "div.space-y-0.5:nth-of-type(2) > button.w-full.flex:nth-of-type(7) > a.flex.md:opacity-0 > svg.lucide.lucide-x",
+            "size": {
+              "height": 12,
+              "width": 12
+            },
+            "tagName": "svg"
+          },
+          {
+            "className": "lucide lucide-database text-emerald-600",
+            "color": "lab(55.0481 -49.9246 15.93)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "16px",
+            "label": "行政公職局將於下週二召開記者會，正式推出「一戶通」手機應用程式的 2026 年度重大升級。本次升級核心亮點為「全面引入 AI 智能客服」，市民可透過語音直接查詢",
+            "lineHeight": "24px",
+            "selector": "button.w-full.flex:nth-of-type(8) > div.inline-flex.items-center:nth-of-type(1) > div.relative.inline-flex > svg.lucide.lucide-database",
+            "size": {
+              "height": 16,
+              "width": 16
+            },
+            "tagName": "svg"
+          },
+          {
+            "className": "lucide lucide-check text-white",
+            "color": "rgb(255, 255, 255)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "16px",
+            "label": "行政公職局將於下週二召開記者會，正式推出「一戶通」手機應用程式的 2026 年度重大升級。本次升級核心亮點為「全面引入 AI 智能客服」，市民可透過語音直接查詢",
+            "lineHeight": "24px",
+            "selector": "div.inline-flex.items-center:nth-of-type(1) > div.relative.inline-flex > div.absolute.-bottom-0.5 > svg.lucide.lucide-check",
+            "size": {
+              "height": 6,
+              "width": 6
+            },
+            "tagName": "svg"
+          },
+          {
+            "className": "lucide lucide-x w-3 h-3",
+            "color": "lab(65.6464 1.53497 -5.42429)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "16px",
+            "label": "刪除對話",
+            "lineHeight": "24px",
+            "selector": "div.space-y-0.5:nth-of-type(2) > button.w-full.flex:nth-of-type(8) > a.flex.md:opacity-0 > svg.lucide.lucide-x",
+            "size": {
+              "height": 12,
+              "width": 12
+            },
+            "tagName": "svg"
+          },
+          {
+            "className": "lucide lucide-database text-emerald-600",
+            "color": "lab(55.0481 -49.9246 15.93)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "16px",
+            "label": "行政公職局將於下週二召開記者會，正式推出「一戶通」手機應用程式的 2026 年度重大升級。本次升級核心亮點為「全面引入 AI 智能客服」，市民可透過語音直接查詢",
+            "lineHeight": "24px",
+            "selector": "button.w-full.flex:nth-of-type(9) > div.inline-flex.items-center:nth-of-type(1) > div.relative.inline-flex > svg.lucide.lucide-database",
+            "size": {
+              "height": 16,
+              "width": 16
+            },
+            "tagName": "svg"
+          },
+          {
+            "className": "lucide lucide-check text-white",
+            "color": "rgb(255, 255, 255)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "16px",
+            "label": "行政公職局將於下週二召開記者會，正式推出「一戶通」手機應用程式的 2026 年度重大升級。本次升級核心亮點為「全面引入 AI 智能客服」，市民可透過語音直接查詢",
+            "lineHeight": "24px",
+            "selector": "div.inline-flex.items-center:nth-of-type(1) > div.relative.inline-flex > div.absolute.-bottom-0.5 > svg.lucide.lucide-check",
+            "size": {
+              "height": 6,
+              "width": 6
+            },
+            "tagName": "svg"
+          },
+          {
+            "className": "lucide lucide-x w-3 h-3",
+            "color": "lab(65.6464 1.53497 -5.42429)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "16px",
+            "label": "刪除對話",
+            "lineHeight": "24px",
+            "selector": "div.space-y-0.5:nth-of-type(2) > button.w-full.flex:nth-of-type(9) > a.flex.md:opacity-0 > svg.lucide.lucide-x",
+            "size": {
+              "height": 12,
+              "width": 12
+            },
+            "tagName": "svg"
+          },
+          {
+            "className": "lucide lucide-database text-emerald-600",
+            "color": "lab(55.0481 -49.9246 15.93)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "16px",
+            "label": "請幫我撰寫一份關於主題的指引性傳閱公函，對象為對象，內容需包含具體要求。 2026-06-15 15:30:31",
+            "lineHeight": "24px",
+            "selector": "button.w-full.flex:nth-of-type(10) > div.inline-flex.items-center:nth-of-type(1) > div.relative.inline-flex > svg.lucide.lucide-database",
+            "size": {
+              "height": 16,
+              "width": 16
+            },
+            "tagName": "svg"
+          },
+          {
+            "className": "lucide lucide-check text-white",
+            "color": "rgb(255, 255, 255)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "16px",
+            "label": "請幫我撰寫一份關於主題的指引性傳閱公函，對象為對象，內容需包含具體要求。 2026-06-15 15:30:31",
+            "lineHeight": "24px",
+            "selector": "div.inline-flex.items-center:nth-of-type(1) > div.relative.inline-flex > div.absolute.-bottom-0.5 > svg.lucide.lucide-check",
+            "size": {
+              "height": 6,
+              "width": 6
+            },
+            "tagName": "svg"
+          },
+          {
+            "className": "lucide lucide-x w-3 h-3",
+            "color": "lab(65.6464 1.53497 -5.42429)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "16px",
+            "label": "刪除對話",
+            "lineHeight": "24px",
+            "selector": "div.space-y-0.5:nth-of-type(2) > button.w-full.flex:nth-of-type(10) > a.flex.md:opacity-0 > svg.lucide.lucide-x",
+            "size": {
+              "height": 12,
+              "width": 12
+            },
+            "tagName": "svg"
+          },
+          {
+            "className": "lucide lucide-database text-emerald-600",
+            "color": "lab(55.0481 -49.9246 15.93)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "16px",
+            "label": "幫我撰寫一篇引人入勝的旅客故事分享文章，主角在旅遊地點經歷了核心事件/體驗。文案需要透過細膩的情感與豐富的細節描繪，展現深刻的旅行體驗，語氣需感性、真實且具啟發",
+            "lineHeight": "24px",
+            "selector": "button.w-full.flex:nth-of-type(11) > div.inline-flex.items-center:nth-of-type(1) > div.relative.inline-flex > svg.lucide.lucide-database",
+            "size": {
+              "height": 16,
+              "width": 16
+            },
+            "tagName": "svg"
+          },
+          {
+            "className": "lucide lucide-check text-white",
+            "color": "rgb(255, 255, 255)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "16px",
+            "label": "幫我撰寫一篇引人入勝的旅客故事分享文章，主角在旅遊地點經歷了核心事件/體驗。文案需要透過細膩的情感與豐富的細節描繪，展現深刻的旅行體驗，語氣需感性、真實且具啟發",
+            "lineHeight": "24px",
+            "selector": "div.inline-flex.items-center:nth-of-type(1) > div.relative.inline-flex > div.absolute.-bottom-0.5 > svg.lucide.lucide-check",
+            "size": {
+              "height": 6,
+              "width": 6
+            },
+            "tagName": "svg"
+          },
+          {
+            "className": "lucide lucide-x w-3 h-3",
+            "color": "lab(65.6464 1.53497 -5.42429)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "16px",
+            "label": "刪除對話",
+            "lineHeight": "24px",
+            "selector": "div.space-y-0.5:nth-of-type(2) > button.w-full.flex:nth-of-type(11) > a.flex.md:opacity-0 > svg.lucide.lucide-x",
+            "size": {
+              "height": 12,
+              "width": 12
+            },
+            "tagName": "svg"
+          },
+          {
+            "className": "lucide lucide-database text-emerald-600",
+            "color": "lab(55.0481 -49.9246 15.93)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "16px",
+            "label": "行政公職局將於下週二召開記者會，正式推出「一戶通」手機應用程式的 2026 年度重大升級。本次升級核心亮點為「全面引入 AI 智能客服」，市民可透過語音直接查詢",
+            "lineHeight": "24px",
+            "selector": "button.w-full.flex:nth-of-type(12) > div.inline-flex.items-center:nth-of-type(1) > div.relative.inline-flex > svg.lucide.lucide-database",
+            "size": {
+              "height": 16,
+              "width": 16
+            },
+            "tagName": "svg"
+          },
+          {
+            "className": "lucide lucide-check text-white",
+            "color": "rgb(255, 255, 255)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "16px",
+            "label": "行政公職局將於下週二召開記者會，正式推出「一戶通」手機應用程式的 2026 年度重大升級。本次升級核心亮點為「全面引入 AI 智能客服」，市民可透過語音直接查詢",
+            "lineHeight": "24px",
+            "selector": "div.inline-flex.items-center:nth-of-type(1) > div.relative.inline-flex > div.absolute.-bottom-0.5 > svg.lucide.lucide-check",
+            "size": {
+              "height": 6,
+              "width": 6
+            },
+            "tagName": "svg"
+          },
+          {
+            "className": "lucide lucide-x w-3 h-3",
+            "color": "lab(65.6464 1.53497 -5.42429)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "16px",
+            "label": "刪除對話",
+            "lineHeight": "24px",
+            "selector": "div.space-y-0.5:nth-of-type(2) > button.w-full.flex:nth-of-type(12) > a.flex.md:opacity-0 > svg.lucide.lucide-x",
+            "size": {
+              "height": 12,
+              "width": 12
+            },
+            "tagName": "svg"
+          },
+          {
+            "className": "text-xs truncate",
+            "color": "lab(2.75381 0 0)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "12px",
+            "label": "T TIW-admin",
+            "lineHeight": "16px",
+            "selector": "div.border-t.border-zinc-200:nth-of-type(4) > div.flex.items-center > button.inline-flex.items-center > span.text-xs.truncate",
+            "size": {
+              "height": 16,
+              "width": 61
+            },
+            "tagName": "span"
+          },
+          {
+            "className": "lucide lucide-database text-emerald-600",
+            "color": "lab(55.0481 -49.9246 15.93)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "14px",
+            "label": "已調用本地知識庫",
+            "lineHeight": "20px",
+            "selector": "div.flex.items-center > div.inline-flex.items-center > div.relative.inline-flex > svg.lucide.lucide-database",
+            "size": {
+              "height": 16,
+              "width": 16
+            },
+            "tagName": "svg"
+          },
+          {
+            "className": "lucide lucide-check text-white",
+            "color": "rgb(255, 255, 255)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "14px",
+            "label": "已調用本地知識庫",
+            "lineHeight": "20px",
+            "selector": "div.inline-flex.items-center > div.relative.inline-flex > div.absolute.-bottom-0.5 > svg.lucide.lucide-check",
+            "size": {
+              "height": 6,
+              "width": 6
+            },
+            "tagName": "svg"
+          },
+          {
+            "className": "flex items-center gap-1 mode-label-animate",
+            "color": "rgb(26, 26, 26)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "14px",
+            "label": "已調用本地知識庫",
+            "lineHeight": "20px",
+            "selector": "div.hidden.h-10:nth-of-type(1) > button.flex.items-center > div.flex.items-center > span.flex.items-center",
+            "size": {
+              "height": 20,
+              "width": 112
+            },
+            "tagName": "span"
+          },
+          {
+            "className": "lucide lucide-chevron-down text-[#999]",
+            "color": "rgb(153, 153, 153)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "14px",
+            "label": "已調用本地知識庫",
+            "lineHeight": "20px",
+            "selector": "main.flex.min-w-0 > div.hidden.h-10:nth-of-type(1) > button.flex.items-center > svg.lucide.lucide-chevron-down",
+            "size": {
+              "height": 14,
+              "width": 14
+            },
+            "tagName": "svg"
+          },
+          {
+            "className": "lucide lucide-message-square-text text-[#0a0a0a] opacity-80",
+            "color": "rgb(10, 10, 10)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "16px",
+            "label": "",
+            "lineHeight": "24px",
+            "selector": "div.flex.flex-col > div.mb-8:nth-of-type(1) > div.w-14.h-14 > svg.lucide.lucide-message-square-text",
+            "size": {
+              "height": 48,
+              "width": 48
+            },
+            "tagName": "svg"
+          },
+          {
+            "className": "lucide lucide-file-text text-[#333]",
+            "color": "rgb(51, 51, 51)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "16px",
+            "label": "新聞稿 針對 [特定政策/活動]，起草一份對外發布的官方新聞稿",
+            "lineHeight": "24px",
+            "selector": "button.group.bg-white:nth-of-type(1) > div.flex.items-center > div.w-8.h-8 > svg.lucide.lucide-file-text",
+            "size": {
+              "height": 14,
+              "width": 14
+            },
+            "tagName": "svg"
+          },
+          {
+            "className": "text-[13px] font-semibold text-[#1a1a1a]",
+            "color": "rgb(26, 26, 26)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "13px",
+            "label": "新聞稿 針對 [特定政策/活動]，起草一份對外發布的官方新聞稿",
+            "lineHeight": "19.5px",
+            "selector": "div.grid.grid-cols-1:nth-of-type(2) > button.group.bg-white:nth-of-type(1) > div.flex.items-center > span.text-[13px].font-semibold",
+            "size": {
+              "height": 20,
+              "width": 39
+            },
+            "tagName": "span"
+          },
+          {
+            "className": "lucide lucide-list-checks text-[#333]",
+            "color": "rgb(51, 51, 51)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "16px",
+            "label": "公文公函 撰寫一份指引性傳閱公函，對象為所有政府部門，內容需包含培訓工作坊的對象、時間、地點、形式等，列點式產出",
+            "lineHeight": "24px",
+            "selector": "button.group.bg-white:nth-of-type(2) > div.flex.items-center > div.w-8.h-8 > svg.lucide.lucide-list-checks",
+            "size": {
+              "height": 14,
+              "width": 14
+            },
+            "tagName": "svg"
+          },
+          {
+            "className": "text-[13px] font-semibold text-[#1a1a1a]",
+            "color": "rgb(26, 26, 26)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "13px",
+            "label": "公文公函 撰寫一份指引性傳閱公函，對象為所有政府部門，內容需包含培訓工作坊的對象、時間、地點、形式等，列點式產出",
+            "lineHeight": "19.5px",
+            "selector": "div.grid.grid-cols-1:nth-of-type(2) > button.group.bg-white:nth-of-type(2) > div.flex.items-center > span.text-[13px].font-semibold",
+            "size": {
+              "height": 20,
+              "width": 52
+            },
+            "tagName": "span"
+          },
+          {
+            "className": "lucide lucide-mail text-[#333]",
+            "color": "rgb(51, 51, 51)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "16px",
+            "label": "長官致辭稿 根據 [特定活動/活動]，為局長撰寫 3 分鐘致辞稿",
+            "lineHeight": "24px",
+            "selector": "button.group.bg-white:nth-of-type(3) > div.flex.items-center > div.w-8.h-8 > svg.lucide.lucide-mail",
+            "size": {
+              "height": 14,
+              "width": 14
+            },
+            "tagName": "svg"
+          },
+          {
+            "className": "text-[13px] font-semibold text-[#1a1a1a]",
+            "color": "rgb(26, 26, 26)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "13px",
+            "label": "長官致辭稿 根據 [特定活動/活動]，為局長撰寫 3 分鐘致辞稿",
+            "lineHeight": "19.5px",
+            "selector": "div.grid.grid-cols-1:nth-of-type(2) > button.group.bg-white:nth-of-type(3) > div.flex.items-center > span.text-[13px].font-semibold",
+            "size": {
+              "height": 20,
+              "width": 65
+            },
+            "tagName": "span"
+          },
+          {
+            "className": "lucide lucide-file-minus text-[#333]",
+            "color": "rgb(51, 51, 51)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "16px",
+            "label": "政策摘要 將這份 50 頁的 [政策評估報告] 摘要成 300 字的重點，供主管快速審閱",
+            "lineHeight": "24px",
+            "selector": "button.group.bg-white:nth-of-type(4) > div.flex.items-center > div.w-8.h-8 > svg.lucide.lucide-file-minus",
+            "size": {
+              "height": 14,
+              "width": 14
+            },
+            "tagName": "svg"
+          },
+          {
+            "className": "text-[13px] font-semibold text-[#1a1a1a]",
+            "color": "rgb(26, 26, 26)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "13px",
+            "label": "政策摘要 將這份 50 頁的 [政策評估報告] 摘要成 300 字的重點，供主管快速審閱",
+            "lineHeight": "19.5px",
+            "selector": "div.grid.grid-cols-1:nth-of-type(2) > button.group.bg-white:nth-of-type(4) > div.flex.items-center > span.text-[13px].font-semibold",
+            "size": {
+              "height": 20,
+              "width": 52
+            },
+            "tagName": "span"
+          },
+          {
+            "className": "lucide lucide-paperclip w-4 h-4",
+            "color": "lab(48.496 0 0)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "16px",
+            "label": "附加參考",
+            "lineHeight": "24px",
+            "selector": "div.col-start-1.row-start-2:nth-of-type(2) > div.relative.shrink-0:nth-of-type(1) > button.hidden.md:flex:nth-of-type(2) > svg.lucide.lucide-paperclip",
+            "size": {
+              "height": 16,
+              "width": 16
+            },
+            "tagName": "svg"
+          },
+          {
+            "className": "lucide lucide-layout-template w-4 h-4",
+            "color": "lab(48.496 0 0)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "13px",
+            "label": "使用模板",
+            "lineHeight": "19.5px",
+            "selector": "div.grid.grid-cols-[1fr_auto] > div.col-start-1.row-start-2:nth-of-type(2) > button.hidden.cursor-pointer:nth-of-type(1) > svg.lucide.lucide-layout-template",
+            "size": {
+              "height": 16,
+              "width": 16
+            },
+            "tagName": "svg"
+          },
+          {
+            "className": "lucide lucide-smile w-4 h-4",
+            "color": "lab(48.496 0 0)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "13px",
+            "label": "通用助手",
+            "lineHeight": "19.5px",
+            "selector": "div.relative > div.flex.items-center > button.flex.items-center > svg.lucide.lucide-smile:nth-of-type(1)",
+            "size": {
+              "height": 16,
+              "width": 16
+            },
+            "tagName": "svg"
+          },
+          {
+            "className": "pr-0.5",
+            "color": "oklab(0.145 -0.00000143796 0.00000340492 / 0.7)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "14px",
+            "label": "Qwen 3.6 27B · 標準",
+            "lineHeight": "20px",
+            "selector": "div.grid.grid-cols-[1fr_auto] > div.col-start-2.row-start-2:nth-of-type(3) > button.inline-flex.items-center:nth-of-type(1) > span.pr-0.5:nth-of-type(1)",
+            "size": {
+              "height": 20,
+              "width": 92
+            },
+            "tagName": "span"
+          },
+          {
+            "className": "text-muted-foreground/50",
+            "color": "oklab(0.555999 -0.00000530481 0.000012964 / 0.5)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "14px",
+            "label": "Qwen 3.6 27B · 標準",
+            "lineHeight": "20px",
+            "selector": "div.grid.grid-cols-[1fr_auto] > div.col-start-2.row-start-2:nth-of-type(3) > button.inline-flex.items-center:nth-of-type(1) > span.text-muted-foreground/50:nth-of-type(2)",
+            "size": {
+              "height": 20,
+              "width": 3
+            },
+            "tagName": "span"
+          },
+          {
+            "className": "lucide lucide-zap w-3.5 h-3.5",
+            "color": "oklab(0.145 -0.00000143796 0.00000340492 / 0.7)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "14px",
+            "label": "Qwen 3.6 27B · 標準",
+            "lineHeight": "20px",
+            "selector": "div.grid.grid-cols-[1fr_auto] > div.col-start-2.row-start-2:nth-of-type(3) > button.inline-flex.items-center:nth-of-type(1) > svg.lucide.lucide-zap:nth-of-type(1)",
+            "size": {
+              "height": 14,
+              "width": 14
+            },
+            "tagName": "svg"
+          },
+          {
+            "className": "text-xs text-foreground/70",
+            "color": "oklab(0.145 -0.00000143796 0.00000340492 / 0.7)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "12px",
+            "label": "Qwen 3.6 27B · 標準",
+            "lineHeight": "16px",
+            "selector": "div.grid.grid-cols-[1fr_auto] > div.col-start-2.row-start-2:nth-of-type(3) > button.inline-flex.items-center:nth-of-type(1) > span.text-xs.text-foreground/70:nth-of-type(3)",
+            "size": {
+              "height": 16,
+              "width": 24
+            },
+            "tagName": "span"
+          },
+          {
+            "className": "lucide lucide-chevron-down w-3.5 h-3.5 shrink-0 -mr-0.5",
+            "color": "oklab(0.145 -0.00000143796 0.00000340492 / 0.7)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "14px",
+            "label": "Qwen 3.6 27B · 標準",
+            "lineHeight": "20px",
+            "selector": "div.grid.grid-cols-[1fr_auto] > div.col-start-2.row-start-2:nth-of-type(3) > button.inline-flex.items-center:nth-of-type(1) > svg.lucide.lucide-chevron-down:nth-of-type(2)",
+            "size": {
+              "height": 14,
+              "width": 14
+            },
+            "tagName": "svg"
+          },
+          {
+            "className": "lucide lucide-send w-5 h-5 md:w-4 md:h-4",
+            "color": "oklab(0.555999 -0.00000530481 0.000012964 / 0.4)",
+            "fontFamily": "Geist, \"Geist Fallback\"",
+            "fontSize": "16px",
+            "label": "發送",
+            "lineHeight": "24px",
+            "selector": "div.grid.grid-cols-[1fr_auto] > div.col-start-2.row-start-2:nth-of-type(3) > button.flex.items-center:nth-of-type(2) > svg.lucide.lucide-send",
+            "size": {
+              "height": 16,
+              "width": 16
+            },
+            "tagName": "svg"
+          }
+        ],
+        "iconFontHints": [
+          "@font-face { font-family: Geist; font-style: normal; font-weight: 100 900; font-display: swap; src: url(\"../media/fef07dbb0973bf53-s.12tyk43_3sh9u.woff2\") format(\"woff2\"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A",
+          "@font-face { font-family: Geist; font-style: normal; font-weight: 100 900; font-display: swap; src: url(\"../media/8a480f0b521d4e75-s.0jzbimsg8vl84.woff2\") format(\"woff2\"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }",
+          "@font-face { font-family: Geist; font-style: normal; font-weight: 100 900; font-display: swap; src: url(\"../media/53b9e256198e5412-s.0-wfv7uh4i7h9.woff2\") format(\"woff2\"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1",
+          "@font-face { font-family: Geist; font-style: normal; font-weight: 100 900; font-display: swap; src: url(\"../media/7178b3e590c64307-s.0nx0ww8fni_q3.woff2\") format(\"woff2\"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF",
+          "@font-face { font-family: Geist; font-style: normal; font-weight: 100 900; font-display: swap; src: url(\"../media/caa3a2e1cccd8315-s.p.09~u27dqhyhd6.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, ",
+          "@font-face { font-family: \"Geist Fallback\"; src: local(\"Arial\"); ascent-override: 95.94%; descent-override: 28.16%; line-gap-override: 0%; size-adjust: 104.76%; }",
+          "@font-face { font-family: \"Geist Mono\"; font-style: normal; font-weight: 100 900; font-display: swap; src: url(\"../media/5ce348bf30bf5439-s.0zgw-jeven.3w.woff2\") format(\"woff2\"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U",
+          "@font-face { font-family: \"Geist Mono\"; font-style: normal; font-weight: 100 900; font-display: swap; src: url(\"../media/4fa387ec64143e14-s.0wkzw~je483f-.woff2\") format(\"woff2\"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116",
+          "@font-face { font-family: \"Geist Mono\"; font-style: normal; font-weight: 100 900; font-display: swap; src: url(\"../media/6306c77e7c8268e4-s.0rhz0arwfsn~5.woff2\") format(\"woff2\"); unicode-range: U+2000-2001, U+2004-2008, U+200A, U+23B8-23BD,",
+          "@font-face { font-family: \"Geist Mono\"; font-style: normal; font-weight: 100 900; font-display: swap; src: url(\"../media/7d817b4c03b0c5f1-s.0l76wvqk9d84w.woff2\") format(\"woff2\"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+",
+          "@font-face { font-family: \"Geist Mono\"; font-style: normal; font-weight: 100 900; font-display: swap; src: url(\"../media/bbc41e54d2fcbd21-s.0k4k9394f2q-k.woff2\") format(\"woff2\"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+",
+          "@font-face { font-family: \"Geist Mono\"; font-style: normal; font-weight: 100 900; font-display: swap; src: url(\"../media/797e433ab948586e-s.p.08e28id.o-okb.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, ",
+          "@font-face { font-family: \"Geist Mono Fallback\"; src: local(\"Arial\"); ascent-override: 74.67%; descent-override: 21.92%; line-gap-override: 0%; size-adjust: 134.59%; }",
+          "@font-face { font-display: block; font-family: KaTeX_AMS; font-style: normal; font-weight: 400; src: url(\"../media/KaTeX_AMS-Regular.0p1vbqd84i2~o.woff2\") format(\"woff2\"), url(\"../media/KaTeX_AMS-Regular.0b~8ki5y928w2.woff\") format(\"woff\"),",
+          "@font-face { font-display: block; font-family: KaTeX_Caligraphic; font-style: normal; font-weight: 700; src: url(\"../media/KaTeX_Caligraphic-Bold.01-pzluls4zgb.woff2\") format(\"woff2\"), url(\"../media/KaTeX_Caligraphic-Bold.0x2v1lwn~880f.woff",
+          "@font-face { font-display: block; font-family: KaTeX_Caligraphic; font-style: normal; font-weight: 400; src: url(\"../media/KaTeX_Caligraphic-Regular.0rysu1t-ncjq8.woff2\") format(\"woff2\"), url(\"../media/KaTeX_Caligraphic-Regular.10927swgekwu",
+          "@font-face { font-display: block; font-family: KaTeX_Fraktur; font-style: normal; font-weight: 700; src: url(\"../media/KaTeX_Fraktur-Bold.0w23i72~hprpq.woff2\") format(\"woff2\"), url(\"../media/KaTeX_Fraktur-Bold.0e-16u10iuyyf.woff\") format(\"w",
+          "@font-face { font-display: block; font-family: KaTeX_Fraktur; font-style: normal; font-weight: 400; src: url(\"../media/KaTeX_Fraktur-Regular.0rekyoa-52fj_.woff2\") format(\"woff2\"), url(\"../media/KaTeX_Fraktur-Regular.0b.riegzdfue2.woff\") for",
+          "@font-face { font-display: block; font-family: KaTeX_Main; font-style: normal; font-weight: 700; src: url(\"../media/KaTeX_Main-Bold.16pfc63_du6mx.woff2\") format(\"woff2\"), url(\"../media/KaTeX_Main-Bold.09lmynrorhcbw.woff\") format(\"woff\"), ur",
+          "@font-face { font-display: block; font-family: KaTeX_Main; font-style: italic; font-weight: 700; src: url(\"../media/KaTeX_Main-BoldItalic.0d54rk08rx11s.woff2\") format(\"woff2\"), url(\"../media/KaTeX_Main-BoldItalic.0cp37g7x1q8h6.woff\") format",
+          "@font-face { font-display: block; font-family: KaTeX_Main; font-style: italic; font-weight: 400; src: url(\"../media/KaTeX_Main-Italic.06o5nq0_91v60.woff2\") format(\"woff2\"), url(\"../media/KaTeX_Main-Italic.0382gqciexmbu.woff\") format(\"woff\")",
+          "@font-face { font-display: block; font-family: KaTeX_Main; font-style: normal; font-weight: 400; src: url(\"../media/KaTeX_Main-Regular.0kaf-ag2_wkm-.woff2\") format(\"woff2\"), url(\"../media/KaTeX_Main-Regular.0diheg01zyoph.woff\") format(\"woff",
+          "@font-face { font-display: block; font-family: KaTeX_Math; font-style: italic; font-weight: 700; src: url(\"../media/KaTeX_Math-BoldItalic.0ja97dn.cpc87.woff2\") format(\"woff2\"), url(\"../media/KaTeX_Math-BoldItalic.0ck1myuerwyqw.woff\") format",
+          "@font-face { font-display: block; font-family: KaTeX_Math; font-style: italic; font-weight: 400; src: url(\"../media/KaTeX_Math-Italic.0zrha2c4sl2je.woff2\") format(\"woff2\"), url(\"../media/KaTeX_Math-Italic.09xkhecjcn5r9.woff\") format(\"woff\")",
+          "@font-face { font-display: block; font-family: KaTeX_SansSerif; font-style: normal; font-weight: 700; src: url(\"../media/KaTeX_SansSerif-Bold.05a9.pc1j_zx9.woff2\") format(\"woff2\"), url(\"../media/KaTeX_SansSerif-Bold.0jcl-ayi1uun0.woff\") for",
+          "@font-face { font-display: block; font-family: KaTeX_SansSerif; font-style: italic; font-weight: 400; src: url(\"../media/KaTeX_SansSerif-Italic.0a0234dc3s62j.woff2\") format(\"woff2\"), url(\"../media/KaTeX_SansSerif-Italic.0judofdln9731.woff\")",
+          "@font-face { font-display: block; font-family: KaTeX_SansSerif; font-style: normal; font-weight: 400; src: url(\"../media/KaTeX_SansSerif-Regular.0v6gcj32-czft.woff2\") format(\"woff2\"), url(\"../media/KaTeX_SansSerif-Regular.0h9yjlugq4q_e.woff",
+          "@font-face { font-display: block; font-family: KaTeX_Script; font-style: normal; font-weight: 400; src: url(\"../media/KaTeX_Script-Regular.0c4.h-mer83d_.woff2\") format(\"woff2\"), url(\"../media/KaTeX_Script-Regular.0ze6v4r_-99oy.woff\") format",
+          "@font-face { font-display: block; font-family: KaTeX_Size1; font-style: normal; font-weight: 400; src: url(\"../media/KaTeX_Size1-Regular.013x6a4ierotp.woff2\") format(\"woff2\"), url(\"../media/KaTeX_Size1-Regular.0kidw0oi.m68o.woff\") format(\"w",
+          "@font-face { font-display: block; font-family: KaTeX_Size2; font-style: normal; font-weight: 400; src: url(\"../media/KaTeX_Size2-Regular.0d5inmyp-tyv3.woff2\") format(\"woff2\"), url(\"../media/KaTeX_Size2-Regular.0blpmluwilgbg.woff\") format(\"w",
+          "@font-face { font-display: block; font-family: KaTeX_Size3; font-style: normal; font-weight: 400; src: url(\"../media/KaTeX_Size3-Regular.0iukctyhw5j56.woff2\") format(\"woff2\"), url(\"../media/KaTeX_Size3-Regular.01h0xm_sfctj3.woff\") format(\"w",
+          "@font-face { font-display: block; font-family: KaTeX_Size4; font-style: normal; font-weight: 400; src: url(\"../media/KaTeX_Size4-Regular.0w3.rb_c4stzk.woff2\") format(\"woff2\"), url(\"../media/KaTeX_Size4-Regular.12tvaesf3.zl3.woff\") format(\"w",
+          "@font-face { font-display: block; font-family: KaTeX_Typewriter; font-style: normal; font-weight: 400; src: url(\"../media/KaTeX_Typewriter-Regular.0c4zdxz~8frhm.woff2\") format(\"woff2\"), url(\"../media/KaTeX_Typewriter-Regular.0cgrzn5l3kao5.w"
+        ],
+        "imageIcons": [],
+        "inlineSvgs": [
+          {
+            "ariaHidden": "true",
+            "ariaLabel": "",
+            "className": "lucide lucide-panel-left-close w-4 h-4",
+            "color": "lab(65.6464 1.53497 -5.42429)",
+            "fill": "none",
+            "label": "收合側邊欄",
+            "pathCount": 3,
+            "role": "",
+            "selector": "aside.flex-col.h-dvh > div.h-10.flex:nth-of-type(1) > button.cursor-pointer.p-1 > svg.lucide.lucide-panel-left-close",
+            "size": {
+              "height": 16,
+              "width": 16
+            },
+            "stroke": "lab(65.6464 1.53497 -5.42429)",
+            "strokeWidth": "2px",
+            "viewBox": "0 0 24 24"
+          },
+          {
+            "ariaHidden": "true",
+            "ariaLabel": "",
+            "className": "lucide lucide-sparkles w-4 h-4 shrink-0 text-[#1a1a1a] dark:text-zinc-100",
+            "color": "rgb(26, 26, 26)",
+            "fill": "none",
+            "label": "新的生成",
+            "pathCount": 4,
+            "role": "",
+            "selector": "div.px-3.pt-3:nth-of-type(1) > div.space-y-0.5 > button.cursor-pointer.w-full > svg.lucide.lucide-sparkles",
+            "size": {
+              "height": 16,
+              "width": 16
+            },
+            "stroke": "rgb(26, 26, 26)",
+            "strokeWidth": "2px",
+            "viewBox": "0 0 24 24"
+          },
+          {
+            "ariaHidden": "true",
+            "ariaLabel": "",
+            "className": "lucide lucide-languages w-4 h-4 shrink-0 text-zinc-400 dark:text-zinc-500",
+            "color": "lab(65.6464 1.53497 -5.42429)",
+            "fill": "none",
+            "label": "翻譯",
+            "pathCount": 6,
+            "role": "",
+            "selector": "div.px-3.pt-3:nth-of-type(2) > div.space-y-0.5 > button.cursor-pointer.w-full > svg.lucide.lucide-languages",
+            "size": {
+              "height": 16,
+              "width": 16
+            },
+            "stroke": "lab(65.6464 1.53497 -5.42429)",
+            "strokeWidth": "2px",
+            "viewBox": "0 0 24 24"
+          },
+          {
+            "ariaHidden": "true",
+            "ariaLabel": "",
+            "className": "lucide lucide-database text-emerald-600",
+            "color": "lab(55.0481 -49.9246 15.93)",
+            "fill": "none",
+            "label": "請幫我撰寫一份關於【公共部門人工智能應用培訓工作坊】的指引性傳閱公函，對象為【所有政府部門】，內容需包含【培訓工作坊的對象、時間、地點、形式等，列點式產出】。 ",
+            "pathCount": 2,
+            "role": "",
+            "selector": "button.w-full.flex:nth-of-type(1) > div.inline-flex.items-center:nth-of-type(1) > div.relative.inline-flex > svg.lucide.lucide-database",
+            "size": {
+              "height": 16,
+              "width": 16
+            },
+            "stroke": "lab(55.0481 -49.9246 15.93)",
+            "strokeWidth": "1.8px",
+            "viewBox": "0 0 24 24"
+          },
+          {
+            "ariaHidden": "true",
+            "ariaLabel": "",
+            "className": "lucide lucide-check text-white",
+            "color": "rgb(255, 255, 255)",
+            "fill": "none",
+            "label": "請幫我撰寫一份關於【公共部門人工智能應用培訓工作坊】的指引性傳閱公函，對象為【所有政府部門】，內容需包含【培訓工作坊的對象、時間、地點、形式等，列點式產出】。 ",
+            "pathCount": 1,
+            "role": "",
+            "selector": "div.inline-flex.items-center:nth-of-type(1) > div.relative.inline-flex > div.absolute.-bottom-0.5 > svg.lucide.lucide-check",
+            "size": {
+              "height": 6,
+              "width": 6
+            },
+            "stroke": "rgb(255, 255, 255)",
+            "strokeWidth": "3px",
+            "viewBox": "0 0 24 24"
+          },
+          {
+            "ariaHidden": "true",
+            "ariaLabel": "",
+            "className": "lucide lucide-x w-3 h-3",
+            "color": "lab(65.6464 1.53497 -5.42429)",
+            "fill": "none",
+            "label": "刪除對話",
+            "pathCount": 2,
+            "role": "",
+            "selector": "div.space-y-0.5:nth-of-type(2) > button.w-full.flex:nth-of-type(1) > a.flex.md:opacity-0 > svg.lucide.lucide-x",
+            "size": {
+              "height": 12,
+              "width": 12
+            },
+            "stroke": "lab(65.6464 1.53497 -5.42429)",
+            "strokeWidth": "2px",
+            "viewBox": "0 0 24 24"
+          },
+          {
+            "ariaHidden": "true",
+            "ariaLabel": "",
+            "className": "lucide lucide-database text-emerald-600",
+            "color": "lab(55.0481 -49.9246 15.93)",
+            "fill": "none",
+            "label": "為局長撰寫出席「澳門大學公共行政培訓中心啟用儀式暨首屆公務人員領導力培訓班開課典禮」的 3 分鐘致辭稿。 2026-06-15 18:37:44",
+            "pathCount": 2,
+            "role": "",
+            "selector": "button.w-full.flex:nth-of-type(2) > div.inline-flex.items-center:nth-of-type(1) > div.relative.inline-flex > svg.lucide.lucide-database",
+            "size": {
+              "height": 16,
+              "width": 16
+            },
+            "stroke": "lab(55.0481 -49.9246 15.93)",
+            "strokeWidth": "1.8px",
+            "viewBox": "0 0 24 24"
+          },
+          {
+            "ariaHidden": "true",
+            "ariaLabel": "",
+            "className": "lucide lucide-check text-white",
+            "color": "rgb(255, 255, 255)",
+            "fill": "none",
+            "label": "為局長撰寫出席「澳門大學公共行政培訓中心啟用儀式暨首屆公務人員領導力培訓班開課典禮」的 3 分鐘致辭稿。 2026-06-15 18:37:44",
+            "pathCount": 1,
+            "role": "",
+            "selector": "div.inline-flex.items-center:nth-of-type(1) > div.relative.inline-flex > div.absolute.-bottom-0.5 > svg.lucide.lucide-check",
+            "size": {
+              "height": 6,
+              "width": 6
+            },
+            "stroke": "rgb(255, 255, 255)",
+            "strokeWidth": "3px",
+            "viewBox": "0 0 24 24"
+          },
+          {
+            "ariaHidden": "true",
+            "ariaLabel": "",
+            "className": "lucide lucide-x w-3 h-3",
+            "color": "lab(65.6464 1.53497 -5.42429)",
+            "fill": "none",
+            "label": "刪除對話",
+            "pathCount": 2,
+            "role": "",
+            "selector": "div.space-y-0.5:nth-of-type(2) > button.w-full.flex:nth-of-type(2) > a.flex.md:opacity-0 > svg.lucide.lucide-x",
+            "size": {
+              "height": 12,
+              "width": 12
+            },
+            "stroke": "lab(65.6464 1.53497 -5.42429)",
+            "strokeWidth": "2px",
+            "viewBox": "0 0 24 24"
+          },
+          {
+            "ariaHidden": "true",
+            "ariaLabel": "",
+            "className": "lucide lucide-database text-emerald-600",
+            "color": "lab(55.0481 -49.9246 15.93)",
+            "fill": "none",
+            "label": "幫我針對優化本澳公務人員跨部門橫向調動機制以提升公共行政效能之課題生成一份專業的行政法務類書面質詢稿件。內文需要闡明目前制度或執行上的爭議點，並向相關權責部門提",
+            "pathCount": 2,
+            "role": "",
+            "selector": "button.w-full.flex:nth-of-type(3) > div.inline-flex.items-center:nth-of-type(1) > div.relative.inline-flex > svg.lucide.lucide-database",
+            "size": {
+              "height": 16,
+              "width": 16
+            },
+            "stroke": "lab(55.0481 -49.9246 15.93)",
+            "strokeWidth": "1.8px",
+            "viewBox": "0 0 24 24"
+          },
+          {
+            "ariaHidden": "true",
+            "ariaLabel": "",
+            "className": "lucide lucide-check text-white",
+            "color": "rgb(255, 255, 255)",
+            "fill": "none",
+            "label": "幫我針對優化本澳公務人員跨部門橫向調動機制以提升公共行政效能之課題生成一份專業的行政法務類書面質詢稿件。內文需要闡明目前制度或執行上的爭議點，並向相關權責部門提",
+            "pathCount": 1,
+            "role": "",
+            "selector": "div.inline-flex.items-center:nth-of-type(1) > div.relative.inline-flex > div.absolute.-bottom-0.5 > svg.lucide.lucide-check",
+            "size": {
+              "height": 6,
+              "width": 6
+            },
+            "stroke": "rgb(255, 255, 255)",
+            "strokeWidth": "3px",
+            "viewBox": "0 0 24 24"
+          },
+          {
+            "ariaHidden": "true",
+            "ariaLabel": "",
+            "className": "lucide lucide-x w-3 h-3",
+            "color": "lab(65.6464 1.53497 -5.42429)",
+            "fill": "none",
+            "label": "刪除對話",
+            "pathCount": 2,
+            "role": "",
+            "selector": "div.space-y-0.5:nth-of-type(2) > button.w-full.flex:nth-of-type(3) > a.flex.md:opacity-0 > svg.lucide.lucide-x",
+            "size": {
+              "height": 12,
+              "width": 12
+            },
+            "stroke": "lab(65.6464 1.53497 -5.42429)",
+            "strokeWidth": "2px",
+            "viewBox": "0 0 24 24"
+          },
+          {
+            "ariaHidden": "true",
+            "ariaLabel": "",
+            "className": "lucide lucide-swords text-yellow-500",
+            "color": "lab(76.3898 14.5258 98.4589)",
+            "fill": "none",
+            "label": "請幫我撰寫一份關於【公共部門人工智能應用培訓工作坊】的指引性傳閱公函，對象為【所有政府部門】，內容需包含【培訓工作坊的對象、時間、地點、形式等，列點式產出】。 ",
+            "pathCount": 8,
+            "role": "",
+            "selector": "button.w-full.flex:nth-of-type(4) > div.inline-flex.items-center:nth-of-type(1) > div.relative.inline-flex > svg.lucide.lucide-swords",
+            "size": {
+              "height": 16,
+              "width": 16
+            },
+            "stroke": "lab(76.3898 14.5258 98.4589)",
+            "strokeWidth": "1.8px",
+            "viewBox": "0 0 24 24"
+          },
+          {
+            "ariaHidden": "true",
+            "ariaLabel": "",
+            "className": "lucide lucide-x w-3 h-3",
+            "color": "lab(65.6464 1.53497 -5.42429)",
+            "fill": "none",
+            "label": "刪除對話",
+            "pathCount": 2,
+            "role": "",
+            "selector": "div.space-y-0.5:nth-of-type(2) > button.w-full.flex:nth-of-type(4) > a.flex.md:opacity-0 > svg.lucide.lucide-x",
+            "size": {
+              "height": 12,
+              "width": 12
+            },
+            "stroke": "lab(65.6464 1.53497 -5.42429)",
+            "strokeWidth": "2px",
+            "viewBox": "0 0 24 24"
+          },
+          {
+            "ariaHidden": "true",
+            "ariaLabel": "",
+            "className": "lucide lucide-swords text-yellow-500",
+            "color": "lab(76.3898 14.5258 98.4589)",
+            "fill": "none",
+            "label": "行政公職局將於下週二召開記者會，正式推出「一戶通」手機應用程式的 2026 年度重大升級。本次升級核心亮點為「全面引入 AI 智能客服」，市民可透過語音直接查詢",
+            "pathCount": 8,
+            "role": "",
+            "selector": "button.w-full.flex:nth-of-type(5) > div.inline-flex.items-center:nth-of-type(1) > div.relative.inline-flex > svg.lucide.lucide-swords",
+            "size": {
+              "height": 16,
+              "width": 16
+            },
+            "stroke": "lab(76.3898 14.5258 98.4589)",
+            "strokeWidth": "1.8px",
+            "viewBox": "0 0 24 24"
+          },
+          {
+            "ariaHidden": "true",
+            "ariaLabel": "",
+            "className": "lucide lucide-x w-3 h-3",
+            "color": "lab(65.6464 1.53497 -5.42429)",
+            "fill": "none",
+            "label": "刪除對話",
+            "pathCount": 2,
+            "role": "",
+            "selector": "div.space-y-0.5:nth-of-type(2) > button.w-full.flex:nth-of-type(5) > a.flex.md:opacity-0 > svg.lucide.lucide-x",
+            "size": {
+              "height": 12,
+              "width": 12
+            },
+            "stroke": "lab(65.6464 1.53497 -5.42429)",
+            "strokeWidth": "2px",
+            "viewBox": "0 0 24 24"
+          },
+          {
+            "ariaHidden": "true",
+            "ariaLabel": "",
+            "className": "lucide lucide-database text-red-500",
+            "color": "lab(55.4814 75.0732 48.8528)",
+            "fill": "none",
+            "label": "行政公職局將於下週二召開記者會，正式推出「一戶通」手機應用程式的 2026 年度重大升級。本次升級核心亮點為「全面引入 AI 智能客服」，市民可透過語音直接查詢",
+            "pathCount": 2,
+            "role": "",
+            "selector": "button.w-full.flex:nth-of-type(6) > div.inline-flex.items-center:nth-of-type(1) > div.relative.inline-flex > svg.lucide.lucide-database",
+            "size": {
+              "height": 16,
+              "width": 16
+            },
+            "stroke": "lab(55.4814 75.0732 48.8528)",
+            "strokeWidth": "1.8px",
+            "viewBox": "0 0 24 24"
+          },
+          {
+            "ariaHidden": "true",
+            "ariaLabel": "",
+            "className": "lucide lucide-x text-white",
+            "color": "rgb(255, 255, 255)",
+            "fill": "none",
+            "label": "行政公職局將於下週二召開記者會，正式推出「一戶通」手機應用程式的 2026 年度重大升級。本次升級核心亮點為「全面引入 AI 智能客服」，市民可透過語音直接查詢",
+            "pathCount": 2,
+            "role": "",
+            "selector": "div.inline-flex.items-center:nth-of-type(1) > div.relative.inline-flex > div.absolute.-bottom-0.5 > svg.lucide.lucide-x",
+            "size": {
+              "height": 6,
+              "width": 6
+            },
+            "stroke": "rgb(255, 255, 255)",
+            "strokeWidth": "3px",
+            "viewBox": "0 0 24 24"
+          },
+          {
+            "ariaHidden": "true",
+            "ariaLabel": "",
+            "className": "lucide lucide-x w-3 h-3",
+            "color": "lab(65.6464 1.53497 -5.42429)",
+            "fill": "none",
+            "label": "刪除對話",
+            "pathCount": 2,
+            "role": "",
+            "selector": "div.space-y-0.5:nth-of-type(2) > button.w-full.flex:nth-of-type(6) > a.flex.md:opacity-0 > svg.lucide.lucide-x",
+            "size": {
+              "height": 12,
+              "width": 12
+            },
+            "stroke": "lab(65.6464 1.53497 -5.42429)",
+            "strokeWidth": "2px",
+            "viewBox": "0 0 24 24"
+          },
+          {
+            "ariaHidden": "true",
+            "ariaLabel": "",
+            "className": "lucide lucide-database text-emerald-600",
+            "color": "lab(55.0481 -49.9246 15.93)",
+            "fill": "none",
+            "label": "請幫我撰寫一份關於【公共部門人工智能應用培訓工作坊】的指引性傳閱公函，對象為【所有政府部門】，內容需包含【培訓工作坊的對象、時間、地點、形式等，列點式產出】。 ",
+            "pathCount": 2,
+            "role": "",
+            "selector": "button.w-full.flex:nth-of-type(7) > div.inline-flex.items-center:nth-of-type(1) > div.relative.inline-flex > svg.lucide.lucide-database",
+            "size": {
+              "height": 16,
+              "width": 16
+            },
+            "stroke": "lab(55.0481 -49.9246 15.93)",
+            "strokeWidth": "1.8px",
+            "viewBox": "0 0 24 24"
+          },
+          {
+            "ariaHidden": "true",
+            "ariaLabel": "",
+            "className": "lucide lucide-check text-white",
+            "color": "rgb(255, 255, 255)",
+            "fill": "none",
+            "label": "請幫我撰寫一份關於【公共部門人工智能應用培訓工作坊】的指引性傳閱公函，對象為【所有政府部門】，內容需包含【培訓工作坊的對象、時間、地點、形式等，列點式產出】。 ",
+            "pathCount": 1,
+            "role": "",
+            "selector": "div.inline-flex.items-center:nth-of-type(1) > div.relative.inline-flex > div.absolute.-bottom-0.5 > svg.lucide.lucide-check",
+            "size": {
+              "height": 6,
+              "width": 6
+            },
+            "stroke": "rgb(255, 255, 255)",
+            "strokeWidth": "3px",
+            "viewBox": "0 0 24 24"
+          },
+          {
+            "ariaHidden": "true",
+            "ariaLabel": "",
+            "className": "lucide lucide-x w-3 h-3",
+            "color": "lab(65.6464 1.53497 -5.42429)",
+            "fill": "none",
+            "label": "刪除對話",
+            "pathCount": 2,
+            "role": "",
+            "selector": "div.space-y-0.5:nth-of-type(2) > button.w-full.flex:nth-of-type(7) > a.flex.md:opacity-0 > svg.lucide.lucide-x",
+            "size": {
+              "height": 12,
+              "width": 12
+            },
+            "stroke": "lab(65.6464 1.53497 -5.42429)",
+            "strokeWidth": "2px",
+            "viewBox": "0 0 24 24"
+          },
+          {
+            "ariaHidden": "true",
+            "ariaLabel": "",
+            "className": "lucide lucide-database text-emerald-600",
+            "color": "lab(55.0481 -49.9246 15.93)",
+            "fill": "none",
+            "label": "行政公職局將於下週二召開記者會，正式推出「一戶通」手機應用程式的 2026 年度重大升級。本次升級核心亮點為「全面引入 AI 智能客服」，市民可透過語音直接查詢",
+            "pathCount": 2,
+            "role": "",
+            "selector": "button.w-full.flex:nth-of-type(8) > div.inline-flex.items-center:nth-of-type(1) > div.relative.inline-flex > svg.lucide.lucide-database",
+            "size": {
+              "height": 16,
+              "width": 16
+            },
+            "stroke": "lab(55.0481 -49.9246 15.93)",
+            "strokeWidth": "1.8px",
+            "viewBox": "0 0 24 24"
+          },
+          {
+            "ariaHidden": "true",
+            "ariaLabel": "",
+            "className": "lucide lucide-check text-white",
+            "color": "rgb(255, 255, 255)",
+            "fill": "none",
+            "label": "行政公職局將於下週二召開記者會，正式推出「一戶通」手機應用程式的 2026 年度重大升級。本次升級核心亮點為「全面引入 AI 智能客服」，市民可透過語音直接查詢",
+            "pathCount": 1,
+            "role": "",
+            "selector": "div.inline-flex.items-center:nth-of-type(1) > div.relative.inline-flex > div.absolute.-bottom-0.5 > svg.lucide.lucide-check",
+            "size": {
+              "height": 6,
+              "width": 6
+            },
+            "stroke": "rgb(255, 255, 255)",
+            "strokeWidth": "3px",
+            "viewBox": "0 0 24 24"
+          },
+          {
+            "ariaHidden": "true",
+            "ariaLabel": "",
+            "className": "lucide lucide-x w-3 h-3",
+            "color": "lab(65.6464 1.53497 -5.42429)",
+            "fill": "none",
+            "label": "刪除對話",
+            "pathCount": 2,
+            "role": "",
+            "selector": "div.space-y-0.5:nth-of-type(2) > button.w-full.flex:nth-of-type(8) > a.flex.md:opacity-0 > svg.lucide.lucide-x",
+            "size": {
+              "height": 12,
+              "width": 12
+            },
+            "stroke": "lab(65.6464 1.53497 -5.42429)",
+            "strokeWidth": "2px",
+            "viewBox": "0 0 24 24"
+          },
+          {
+            "ariaHidden": "true",
+            "ariaLabel": "",
+            "className": "lucide lucide-database text-emerald-600",
+            "color": "lab(55.0481 -49.9246 15.93)",
+            "fill": "none",
+            "label": "行政公職局將於下週二召開記者會，正式推出「一戶通」手機應用程式的 2026 年度重大升級。本次升級核心亮點為「全面引入 AI 智能客服」，市民可透過語音直接查詢",
+            "pathCount": 2,
+            "role": "",
+            "selector": "button.w-full.flex:nth-of-type(9) > div.inline-flex.items-center:nth-of-type(1) > div.relative.inline-flex > svg.lucide.lucide-database",
+            "size": {
+              "height": 16,
+              "width": 16
+            },
+            "stroke": "lab(55.0481 -49.9246 15.93)",
+            "strokeWidth": "1.8px",
+            "viewBox": "0 0 24 24"
+          },
+          {
+            "ariaHidden": "true",
+            "ariaLabel": "",
+            "className": "lucide lucide-check text-white",
+            "color": "rgb(255, 255, 255)",
+            "fill": "none",
+            "label": "行政公職局將於下週二召開記者會，正式推出「一戶通」手機應用程式的 2026 年度重大升級。本次升級核心亮點為「全面引入 AI 智能客服」，市民可透過語音直接查詢",
+            "pathCount": 1,
+            "role": "",
+            "selector": "div.inline-flex.items-center:nth-of-type(1) > div.relative.inline-flex > div.absolute.-bottom-0.5 > svg.lucide.lucide-check",
+            "size": {
+              "height": 6,
+              "width": 6
+            },
+            "stroke": "rgb(255, 255, 255)",
+            "strokeWidth": "3px",
+            "viewBox": "0 0 24 24"
+          },
+          {
+            "ariaHidden": "true",
+            "ariaLabel": "",
+            "className": "lucide lucide-x w-3 h-3",
+            "color": "lab(65.6464 1.53497 -5.42429)",
+            "fill": "none",
+            "label": "刪除對話",
+            "pathCount": 2,
+            "role": "",
+            "selector": "div.space-y-0.5:nth-of-type(2) > button.w-full.flex:nth-of-type(9) > a.flex.md:opacity-0 > svg.lucide.lucide-x",
+            "size": {
+              "height": 12,
+              "width": 12
+            },
+            "stroke": "lab(65.6464 1.53497 -5.42429)",
+            "strokeWidth": "2px",
+            "viewBox": "0 0 24 24"
+          },
+          {
+            "ariaHidden": "true",
+            "ariaLabel": "",
+            "className": "lucide lucide-database text-emerald-600",
+            "color": "lab(55.0481 -49.9246 15.93)",
+            "fill": "none",
+            "label": "請幫我撰寫一份關於主題的指引性傳閱公函，對象為對象，內容需包含具體要求。 2026-06-15 15:30:31",
+            "pathCount": 2,
+            "role": "",
+            "selector": "button.w-full.flex:nth-of-type(10) > div.inline-flex.items-center:nth-of-type(1) > div.relative.inline-flex > svg.lucide.lucide-database",
+            "size": {
+              "height": 16,
+              "width": 16
+            },
+            "stroke": "lab(55.0481 -49.9246 15.93)",
+            "strokeWidth": "1.8px",
+            "viewBox": "0 0 24 24"
+          },
+          {
+            "ariaHidden": "true",
+            "ariaLabel": "",
+            "className": "lucide lucide-check text-white",
+            "color": "rgb(255, 255, 255)",
+            "fill": "none",
+            "label": "請幫我撰寫一份關於主題的指引性傳閱公函，對象為對象，內容需包含具體要求。 2026-06-15 15:30:31",
+            "pathCount": 1,
+            "role": "",
+            "selector": "div.inline-flex.items-center:nth-of-type(1) > div.relative.inline-flex > div.absolute.-bottom-0.5 > svg.lucide.lucide-check",
+            "size": {
+              "height": 6,
+              "width": 6
+            },
+            "stroke": "rgb(255, 255, 255)",
+            "strokeWidth": "3px",
+            "viewBox": "0 0 24 24"
+          },
+          {
+            "ariaHidden": "true",
+            "ariaLabel": "",
+            "className": "lucide lucide-x w-3 h-3",
+            "color": "lab(65.6464 1.53497 -5.42429)",
+            "fill": "none",
+            "label": "刪除對話",
+            "pathCount": 2,
+            "role": "",
+            "selector": "div.space-y-0.5:nth-of-type(2) > button.w-full.flex:nth-of-type(10) > a.flex.md:opacity-0 > svg.lucide.lucide-x",
+            "size": {
+              "height": 12,
+              "width": 12
+            },
+            "stroke": "lab(65.6464 1.53497 -5.42429)",
+            "strokeWidth": "2px",
+            "viewBox": "0 0 24 24"
+          },
+          {
+            "ariaHidden": "true",
+            "ariaLabel": "",
+            "className": "lucide lucide-database text-emerald-600",
+            "color": "lab(55.0481 -49.9246 15.93)",
+            "fill": "none",
+            "label": "幫我撰寫一篇引人入勝的旅客故事分享文章，主角在旅遊地點經歷了核心事件/體驗。文案需要透過細膩的情感與豐富的細節描繪，展現深刻的旅行體驗，語氣需感性、真實且具啟發",
+            "pathCount": 2,
+            "role": "",
+            "selector": "button.w-full.flex:nth-of-type(11) > div.inline-flex.items-center:nth-of-type(1) > div.relative.inline-flex > svg.lucide.lucide-database",
+            "size": {
+              "height": 16,
+              "width": 16
+            },
+            "stroke": "lab(55.0481 -49.9246 15.93)",
+            "strokeWidth": "1.8px",
+            "viewBox": "0 0 24 24"
+          },
+          {
+            "ariaHidden": "true",
+            "ariaLabel": "",
+            "className": "lucide lucide-check text-white",
+            "color": "rgb(255, 255, 255)",
+            "fill": "none",
+            "label": "幫我撰寫一篇引人入勝的旅客故事分享文章，主角在旅遊地點經歷了核心事件/體驗。文案需要透過細膩的情感與豐富的細節描繪，展現深刻的旅行體驗，語氣需感性、真實且具啟發",
+            "pathCount": 1,
+            "role": "",
+            "selector": "div.inline-flex.items-center:nth-of-type(1) > div.relative.inline-flex > div.absolute.-bottom-0.5 > svg.lucide.lucide-check",
+            "size": {
+              "height": 6,
+              "width": 6
+            },
+            "stroke": "rgb(255, 255, 255)",
+            "strokeWidth": "3px",
+            "viewBox": "0 0 24 24"
+          },
+          {
+            "ariaHidden": "true",
+            "ariaLabel": "",
+            "className": "lucide lucide-x w-3 h-3",
+            "color": "lab(65.6464 1.53497 -5.42429)",
+            "fill": "none",
+            "label": "刪除對話",
+            "pathCount": 2,
+            "role": "",
+            "selector": "div.space-y-0.5:nth-of-type(2) > button.w-full.flex:nth-of-type(11) > a.flex.md:opacity-0 > svg.lucide.lucide-x",
+            "size": {
+              "height": 12,
+              "width": 12
+            },
+            "stroke": "lab(65.6464 1.53497 -5.42429)",
+            "strokeWidth": "2px",
+            "viewBox": "0 0 24 24"
+          },
+          {
+            "ariaHidden": "true",
+            "ariaLabel": "",
+            "className": "lucide lucide-database text-emerald-600",
+            "color": "lab(55.0481 -49.9246 15.93)",
+            "fill": "none",
+            "label": "行政公職局將於下週二召開記者會，正式推出「一戶通」手機應用程式的 2026 年度重大升級。本次升級核心亮點為「全面引入 AI 智能客服」，市民可透過語音直接查詢",
+            "pathCount": 2,
+            "role": "",
+            "selector": "button.w-full.flex:nth-of-type(12) > div.inline-flex.items-center:nth-of-type(1) > div.relative.inline-flex > svg.lucide.lucide-database",
+            "size": {
+              "height": 16,
+              "width": 16
+            },
+            "stroke": "lab(55.0481 -49.9246 15.93)",
+            "strokeWidth": "1.8px",
+            "viewBox": "0 0 24 24"
+          },
+          {
+            "ariaHidden": "true",
+            "ariaLabel": "",
+            "className": "lucide lucide-check text-white",
+            "color": "rgb(255, 255, 255)",
+            "fill": "none",
+            "label": "行政公職局將於下週二召開記者會，正式推出「一戶通」手機應用程式的 2026 年度重大升級。本次升級核心亮點為「全面引入 AI 智能客服」，市民可透過語音直接查詢",
+            "pathCount": 1,
+            "role": "",
+            "selector": "div.inline-flex.items-center:nth-of-type(1) > div.relative.inline-flex > div.absolute.-bottom-0.5 > svg.lucide.lucide-check",
+            "size": {
+              "height": 6,
+              "width": 6
+            },
+            "stroke": "rgb(255, 255, 255)",
+            "strokeWidth": "3px",
+            "viewBox": "0 0 24 24"
+          },
+          {
+            "ariaHidden": "true",
+            "ariaLabel": "",
+            "className": "lucide lucide-x w-3 h-3",
+            "color": "lab(65.6464 1.53497 -5.42429)",
+            "fill": "none",
+            "label": "刪除對話",
+            "pathCount": 2,
+            "role": "",
+            "selector": "div.space-y-0.5:nth-of-type(2) > button.w-full.flex:nth-of-type(12) > a.flex.md:opacity-0 > svg.lucide.lucide-x",
+            "size": {
+              "height": 12,
+              "width": 12
+            },
+            "stroke": "lab(65.6464 1.53497 -5.42429)",
+            "strokeWidth": "2px",
+            "viewBox": "0 0 24 24"
+          },
+          {
+            "ariaHidden": "true",
+            "ariaLabel": "",
+            "className": "lucide lucide-database text-emerald-600",
+            "color": "lab(55.0481 -49.9246 15.93)",
+            "fill": "none",
+            "label": "已調用本地知識庫",
+            "pathCount": 2,
+            "role": "",
+            "selector": "div.flex.items-center > div.inline-flex.items-center > div.relative.inline-flex > svg.lucide.lucide-database",
+            "size": {
+              "height": 16,
+              "width": 16
+            },
+            "stroke": "lab(55.0481 -49.9246 15.93)",
+            "strokeWidth": "1.8px",
+            "viewBox": "0 0 24 24"
+          },
+          {
+            "ariaHidden": "true",
+            "ariaLabel": "",
+            "className": "lucide lucide-check text-white",
+            "color": "rgb(255, 255, 255)",
+            "fill": "none",
+            "label": "已調用本地知識庫",
+            "pathCount": 1,
+            "role": "",
+            "selector": "div.inline-flex.items-center > div.relative.inline-flex > div.absolute.-bottom-0.5 > svg.lucide.lucide-check",
+            "size": {
+              "height": 6,
+              "width": 6
+            },
+            "stroke": "rgb(255, 255, 255)",
+            "strokeWidth": "3px",
+            "viewBox": "0 0 24 24"
+          },
+          {
+            "ariaHidden": "true",
+            "ariaLabel": "",
+            "className": "lucide lucide-chevron-down text-[#999]",
+            "color": "rgb(153, 153, 153)",
+            "fill": "none",
+            "label": "已調用本地知識庫",
+            "pathCount": 1,
+            "role": "",
+            "selector": "main.flex.min-w-0 > div.hidden.h-10:nth-of-type(1) > button.flex.items-center > svg.lucide.lucide-chevron-down",
+            "size": {
+              "height": 14,
+              "width": 14
+            },
+            "stroke": "rgb(153, 153, 153)",
+            "strokeWidth": "2px",
+            "viewBox": "0 0 24 24"
+          },
+          {
+            "ariaHidden": "true",
+            "ariaLabel": "",
+            "className": "lucide lucide-message-square-text text-[#0a0a0a] opacity-80",
+            "color": "rgb(10, 10, 10)",
+            "fill": "none",
+            "label": "",
+            "pathCount": 4,
+            "role": "",
+            "selector": "div.flex.flex-col > div.mb-8:nth-of-type(1) > div.w-14.h-14 > svg.lucide.lucide-message-square-text",
+            "size": {
+              "height": 48,
+              "width": 48
+            },
+            "stroke": "rgb(10, 10, 10)",
+            "strokeWidth": "2px",
+            "viewBox": "0 0 24 24"
+          },
+          {
+            "ariaHidden": "true",
+            "ariaLabel": "",
+            "className": "lucide lucide-file-text text-[#333]",
+            "color": "rgb(51, 51, 51)",
+            "fill": "none",
+            "label": "新聞稿 針對 [特定政策/活動]，起草一份對外發布的官方新聞稿",
+            "pathCount": 5,
+            "role": "",
+            "selector": "button.group.bg-white:nth-of-type(1) > div.flex.items-center > div.w-8.h-8 > svg.lucide.lucide-file-text",
+            "size": {
+              "height": 14,
+              "width": 14
+            },
+            "stroke": "rgb(51, 51, 51)",
+            "strokeWidth": "2px",
+            "viewBox": "0 0 24 24"
+          },
+          {
+            "ariaHidden": "true",
+            "ariaLabel": "",
+            "className": "lucide lucide-list-checks text-[#333]",
+            "color": "rgb(51, 51, 51)",
+            "fill": "none",
+            "label": "公文公函 撰寫一份指引性傳閱公函，對象為所有政府部門，內容需包含培訓工作坊的對象、時間、地點、形式等，列點式產出",
+            "pathCount": 5,
+            "role": "",
+            "selector": "button.group.bg-white:nth-of-type(2) > div.flex.items-center > div.w-8.h-8 > svg.lucide.lucide-list-checks",
+            "size": {
+              "height": 14,
+              "width": 14
+            },
+            "stroke": "rgb(51, 51, 51)",
+            "strokeWidth": "2px",
+            "viewBox": "0 0 24 24"
+          },
+          {
+            "ariaHidden": "true",
+            "ariaLabel": "",
+            "className": "lucide lucide-mail text-[#333]",
+            "color": "rgb(51, 51, 51)",
+            "fill": "none",
+            "label": "長官致辭稿 根據 [特定活動/活動]，為局長撰寫 3 分鐘致辞稿",
+            "pathCount": 2,
+            "role": "",
+            "selector": "button.group.bg-white:nth-of-type(3) > div.flex.items-center > div.w-8.h-8 > svg.lucide.lucide-mail",
+            "size": {
+              "height": 14,
+              "width": 14
+            },
+            "stroke": "rgb(51, 51, 51)",
+            "strokeWidth": "2px",
+            "viewBox": "0 0 24 24"
+          },
+          {
+            "ariaHidden": "true",
+            "ariaLabel": "",
+            "className": "lucide lucide-file-minus text-[#333]",
+            "color": "rgb(51, 51, 51)",
+            "fill": "none",
+            "label": "政策摘要 將這份 50 頁的 [政策評估報告] 摘要成 300 字的重點，供主管快速審閱",
+            "pathCount": 3,
+            "role": "",
+            "selector": "button.group.bg-white:nth-of-type(4) > div.flex.items-center > div.w-8.h-8 > svg.lucide.lucide-file-minus",
+            "size": {
+              "height": 14,
+              "width": 14
+            },
+            "stroke": "rgb(51, 51, 51)",
+            "strokeWidth": "2px",
+            "viewBox": "0 0 24 24"
+          },
+          {
+            "ariaHidden": "true",
+            "ariaLabel": "",
+            "className": "lucide lucide-paperclip w-4 h-4",
+            "color": "lab(48.496 0 0)",
+            "fill": "none",
+            "label": "附加參考",
+            "pathCount": 1,
+            "role": "",
+            "selector": "div.col-start-1.row-start-2:nth-of-type(2) > div.relative.shrink-0:nth-of-type(1) > button.hidden.md:flex:nth-of-type(2) > svg.lucide.lucide-paperclip",
+            "size": {
+              "height": 16,
+              "width": 16
+            },
+            "stroke": "lab(48.496 0 0)",
+            "strokeWidth": "2px",
+            "viewBox": "0 0 24 24"
+          },
+          {
+            "ariaHidden": "true",
+            "ariaLabel": "",
+            "className": "lucide lucide-layout-template w-4 h-4",
+            "color": "lab(48.496 0 0)",
+            "fill": "none",
+            "label": "使用模板",
+            "pathCount": 3,
+            "role": "",
+            "selector": "div.grid.grid-cols-[1fr_auto] > div.col-start-1.row-start-2:nth-of-type(2) > button.hidden.cursor-pointer:nth-of-type(1) > svg.lucide.lucide-layout-template",
+            "size": {
+              "height": 16,
+              "width": 16
+            },
+            "stroke": "lab(48.496 0 0)",
+            "strokeWidth": "2px",
+            "viewBox": "0 0 24 24"
+          },
+          {
+            "ariaHidden": "true",
+            "ariaLabel": "",
+            "className": "lucide lucide-smile w-4 h-4",
+            "color": "lab(48.496 0 0)",
+            "fill": "none",
+            "label": "通用助手",
+            "pathCount": 4,
+            "role": "",
+            "selector": "div.relative > div.flex.items-center > button.flex.items-center > svg.lucide.lucide-smile:nth-of-type(1)",
+            "size": {
+              "height": 16,
+              "width": 16
+            },
+            "stroke": "lab(48.496 0 0)",
+            "strokeWidth": "2px",
+            "viewBox": "0 0 24 24"
+          },
+          {
+            "ariaHidden": "",
+            "ariaLabel": "",
+            "className": "w-3.5 h-3.5 shrink-0",
+            "color": "lab(48.496 0 0)",
+            "fill": "none",
+            "label": "通用助手",
+            "pathCount": 1,
+            "role": "",
+            "selector": "div.relative > div.flex.items-center > button.flex.items-center > svg.w-3.5.h-3.5:nth-of-type(2)",
+            "size": {
+              "height": 14,
+              "width": 14
+            },
+            "stroke": "lab(48.496 0 0)",
+            "strokeWidth": "1px",
+            "viewBox": "0 0 24 24"
+          },
+          {
+            "ariaHidden": "true",
+            "ariaLabel": "",
+            "className": "lucide lucide-zap w-3.5 h-3.5",
+            "color": "oklab(0.145 -0.00000143796 0.00000340492 / 0.7)",
+            "fill": "none",
+            "label": "Qwen 3.6 27B · 標準",
+            "pathCount": 1,
+            "role": "",
+            "selector": "div.grid.grid-cols-[1fr_auto] > div.col-start-2.row-start-2:nth-of-type(3) > button.inline-flex.items-center:nth-of-type(1) > svg.lucide.lucide-zap:nth-of-type(1)",
+            "size": {
+              "height": 14,
+              "width": 14
+            },
+            "stroke": "oklab(0.145 -0.00000143796 0.00000340492 / 0.7)",
+            "strokeWidth": "2px",
+            "viewBox": "0 0 24 24"
+          },
+          {
+            "ariaHidden": "true",
+            "ariaLabel": "",
+            "className": "lucide lucide-chevron-down w-3.5 h-3.5 shrink-0 -mr-0.5",
+            "color": "oklab(0.145 -0.00000143796 0.00000340492 / 0.7)",
+            "fill": "none",
+            "label": "Qwen 3.6 27B · 標準",
+            "pathCount": 1,
+            "role": "",
+            "selector": "div.grid.grid-cols-[1fr_auto] > div.col-start-2.row-start-2:nth-of-type(3) > button.inline-flex.items-center:nth-of-type(1) > svg.lucide.lucide-chevron-down:nth-of-type(2)",
+            "size": {
+              "height": 14,
+              "width": 14
+            },
+            "stroke": "oklab(0.145 -0.00000143796 0.00000340492 / 0.7)",
+            "strokeWidth": "2px",
+            "viewBox": "0 0 24 24"
+          },
+          {
+            "ariaHidden": "true",
+            "ariaLabel": "",
+            "className": "lucide lucide-send w-5 h-5 md:w-4 md:h-4",
+            "color": "oklab(0.555999 -0.00000530481 0.000012964 / 0.4)",
+            "fill": "none",
+            "label": "發送",
+            "pathCount": 2,
+            "role": "",
+            "selector": "div.grid.grid-cols-[1fr_auto] > div.col-start-2.row-start-2:nth-of-type(3) > button.flex.items-center:nth-of-type(2) > svg.lucide.lucide-send",
+            "size": {
+              "height": 16,
+              "width": 16
+            },
+            "stroke": "oklab(0.555999 -0.00000530481 0.000012964 / 0.4)",
+            "strokeWidth": "2px",
+            "viewBox": "0 0 24 24"
+          }
+        ],
+        "interactiveIconButtons": [
+          {
+            "ariaLabel": "收合側邊欄",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderRadius": "8px",
+            "className": "cursor-pointer p-1 rounded-md text-zinc-400 hover:bg-[oklch(0.922_0_0)] dark:hover:bg-zinc-800 hover:text-zinc-600 dark:hover:text-zinc-300 transition-colors shrink-0",
+            "color": "lab(65.6464 1.53497 -5.42429)",
+            "hasImg": false,
+            "hasSvg": true,
+            "label": "收合側邊欄",
+            "selector": "div.flex.h-dvh:nth-of-type(2) > aside.flex-col.h-dvh > div.h-10.flex:nth-of-type(1) > button.cursor-pointer.p-1",
+            "size": {
+              "height": 24,
+              "width": 24
+            },
+            "title": ""
+          },
+          {
+            "ariaLabel": "",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "borderRadius": "10px",
+            "className": "cursor-pointer w-full flex items-center gap-2.5 px-2.5 py-2 rounded-lg text-sm transition-colors text-left bg-white shadow-sm text-[#1a1a1a] dark:text-zinc-100 font-medium",
+            "color": "rgb(26, 26, 26)",
+            "hasImg": false,
+            "hasSvg": true,
+            "label": "新的生成",
+            "selector": "div.overflow-y-auto.shrink-0:nth-of-type(2) > div.px-3.pt-3:nth-of-type(1) > div.space-y-0.5 > button.cursor-pointer.w-full",
+            "size": {
+              "height": 36,
+              "width": 231
+            },
+            "title": ""
+          },
+          {
+            "ariaLabel": "",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderRadius": "10px",
+            "className": "cursor-pointer w-full flex items-center gap-2.5 px-2.5 py-2 rounded-lg text-sm transition-colors text-left text-zinc-600 dark:text-zinc-400 hover:bg-[oklch(0.922_0_0)] dark:hover:bg-zinc-800 hover:text-zinc-900 dark:hover:text-zinc-200",
+            "color": "lab(35.1166 1.78212 -6.1173)",
+            "hasImg": false,
+            "hasSvg": true,
+            "label": "翻譯",
+            "selector": "div.overflow-y-auto.shrink-0:nth-of-type(2) > div.px-3.pt-3:nth-of-type(2) > div.space-y-0.5 > button.cursor-pointer.w-full",
+            "size": {
+              "height": 36,
+              "width": 231
+            },
+            "title": ""
+          },
+          {
+            "ariaLabel": "",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderRadius": "10px",
+            "className": "w-full flex items-center gap-2 px-2.5 py-1.5 rounded-lg transition-colors text-left group cursor-pointer hover:bg-[oklch(0.922_0_0)] dark:hover:bg-zinc-800/50",
+            "color": "lab(2.75381 0 0)",
+            "hasImg": false,
+            "hasSvg": true,
+            "label": "請幫我撰寫一份關於【公共部門人工智能應用培訓工作坊】的指引性傳閱公函，對象為【所有政府部門】，內容需包含【培訓工作坊的對象、時間、地點、形式等，列點式產出】。 ",
+            "selector": "aside.flex-col.h-dvh > div.flex-1.overflow-y-auto:nth-of-type(3) > div.space-y-0.5:nth-of-type(2) > button.w-full.flex:nth-of-type(1)",
+            "size": {
+              "height": 45,
+              "width": 231
+            },
+            "title": ""
+          },
+          {
+            "ariaLabel": "",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderRadius": "10px",
+            "className": "w-full flex items-center gap-2 px-2.5 py-1.5 rounded-lg transition-colors text-left group cursor-pointer hover:bg-[oklch(0.922_0_0)] dark:hover:bg-zinc-800/50",
+            "color": "lab(2.75381 0 0)",
+            "hasImg": false,
+            "hasSvg": true,
+            "label": "為局長撰寫出席「澳門大學公共行政培訓中心啟用儀式暨首屆公務人員領導力培訓班開課典禮」的 3 分鐘致辭稿。 2026-06-15 18:37:44",
+            "selector": "aside.flex-col.h-dvh > div.flex-1.overflow-y-auto:nth-of-type(3) > div.space-y-0.5:nth-of-type(2) > button.w-full.flex:nth-of-type(2)",
+            "size": {
+              "height": 45,
+              "width": 231
+            },
+            "title": ""
+          },
+          {
+            "ariaLabel": "",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderRadius": "10px",
+            "className": "w-full flex items-center gap-2 px-2.5 py-1.5 rounded-lg transition-colors text-left group cursor-pointer hover:bg-[oklch(0.922_0_0)] dark:hover:bg-zinc-800/50",
+            "color": "lab(2.75381 0 0)",
+            "hasImg": false,
+            "hasSvg": true,
+            "label": "幫我針對優化本澳公務人員跨部門橫向調動機制以提升公共行政效能之課題生成一份專業的行政法務類書面質詢稿件。內文需要闡明目前制度或執行上的爭議點，並向相關權責部門提",
+            "selector": "aside.flex-col.h-dvh > div.flex-1.overflow-y-auto:nth-of-type(3) > div.space-y-0.5:nth-of-type(2) > button.w-full.flex:nth-of-type(3)",
+            "size": {
+              "height": 45,
+              "width": 231
+            },
+            "title": ""
+          },
+          {
+            "ariaLabel": "",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderRadius": "10px",
+            "className": "w-full flex items-center gap-2 px-2.5 py-1.5 rounded-lg transition-colors text-left group cursor-pointer hover:bg-[oklch(0.922_0_0)] dark:hover:bg-zinc-800/50",
+            "color": "lab(2.75381 0 0)",
+            "hasImg": false,
+            "hasSvg": true,
+            "label": "請幫我撰寫一份關於【公共部門人工智能應用培訓工作坊】的指引性傳閱公函，對象為【所有政府部門】，內容需包含【培訓工作坊的對象、時間、地點、形式等，列點式產出】。 ",
+            "selector": "aside.flex-col.h-dvh > div.flex-1.overflow-y-auto:nth-of-type(3) > div.space-y-0.5:nth-of-type(2) > button.w-full.flex:nth-of-type(4)",
+            "size": {
+              "height": 45,
+              "width": 231
+            },
+            "title": ""
+          },
+          {
+            "ariaLabel": "",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderRadius": "10px",
+            "className": "w-full flex items-center gap-2 px-2.5 py-1.5 rounded-lg transition-colors text-left group cursor-pointer hover:bg-[oklch(0.922_0_0)] dark:hover:bg-zinc-800/50",
+            "color": "lab(2.75381 0 0)",
+            "hasImg": false,
+            "hasSvg": true,
+            "label": "行政公職局將於下週二召開記者會，正式推出「一戶通」手機應用程式的 2026 年度重大升級。本次升級核心亮點為「全面引入 AI 智能客服」，市民可透過語音直接查詢",
+            "selector": "aside.flex-col.h-dvh > div.flex-1.overflow-y-auto:nth-of-type(3) > div.space-y-0.5:nth-of-type(2) > button.w-full.flex:nth-of-type(5)",
+            "size": {
+              "height": 45,
+              "width": 231
+            },
+            "title": ""
+          },
+          {
+            "ariaLabel": "",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderRadius": "10px",
+            "className": "w-full flex items-center gap-2 px-2.5 py-1.5 rounded-lg transition-colors text-left group cursor-pointer hover:bg-[oklch(0.922_0_0)] dark:hover:bg-zinc-800/50",
+            "color": "lab(2.75381 0 0)",
+            "hasImg": false,
+            "hasSvg": true,
+            "label": "行政公職局將於下週二召開記者會，正式推出「一戶通」手機應用程式的 2026 年度重大升級。本次升級核心亮點為「全面引入 AI 智能客服」，市民可透過語音直接查詢",
+            "selector": "aside.flex-col.h-dvh > div.flex-1.overflow-y-auto:nth-of-type(3) > div.space-y-0.5:nth-of-type(2) > button.w-full.flex:nth-of-type(6)",
+            "size": {
+              "height": 45,
+              "width": 231
+            },
+            "title": ""
+          },
+          {
+            "ariaLabel": "",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderRadius": "10px",
+            "className": "w-full flex items-center gap-2 px-2.5 py-1.5 rounded-lg transition-colors text-left group cursor-pointer hover:bg-[oklch(0.922_0_0)] dark:hover:bg-zinc-800/50",
+            "color": "lab(2.75381 0 0)",
+            "hasImg": false,
+            "hasSvg": true,
+            "label": "請幫我撰寫一份關於【公共部門人工智能應用培訓工作坊】的指引性傳閱公函，對象為【所有政府部門】，內容需包含【培訓工作坊的對象、時間、地點、形式等，列點式產出】。 ",
+            "selector": "aside.flex-col.h-dvh > div.flex-1.overflow-y-auto:nth-of-type(3) > div.space-y-0.5:nth-of-type(2) > button.w-full.flex:nth-of-type(7)",
+            "size": {
+              "height": 45,
+              "width": 231
+            },
+            "title": ""
+          },
+          {
+            "ariaLabel": "",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderRadius": "10px",
+            "className": "w-full flex items-center gap-2 px-2.5 py-1.5 rounded-lg transition-colors text-left group cursor-pointer hover:bg-[oklch(0.922_0_0)] dark:hover:bg-zinc-800/50",
+            "color": "lab(2.75381 0 0)",
+            "hasImg": false,
+            "hasSvg": true,
+            "label": "行政公職局將於下週二召開記者會，正式推出「一戶通」手機應用程式的 2026 年度重大升級。本次升級核心亮點為「全面引入 AI 智能客服」，市民可透過語音直接查詢",
+            "selector": "aside.flex-col.h-dvh > div.flex-1.overflow-y-auto:nth-of-type(3) > div.space-y-0.5:nth-of-type(2) > button.w-full.flex:nth-of-type(8)",
+            "size": {
+              "height": 45,
+              "width": 231
+            },
+            "title": ""
+          },
+          {
+            "ariaLabel": "",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderRadius": "10px",
+            "className": "w-full flex items-center gap-2 px-2.5 py-1.5 rounded-lg transition-colors text-left group cursor-pointer hover:bg-[oklch(0.922_0_0)] dark:hover:bg-zinc-800/50",
+            "color": "lab(2.75381 0 0)",
+            "hasImg": false,
+            "hasSvg": true,
+            "label": "行政公職局將於下週二召開記者會，正式推出「一戶通」手機應用程式的 2026 年度重大升級。本次升級核心亮點為「全面引入 AI 智能客服」，市民可透過語音直接查詢",
+            "selector": "aside.flex-col.h-dvh > div.flex-1.overflow-y-auto:nth-of-type(3) > div.space-y-0.5:nth-of-type(2) > button.w-full.flex:nth-of-type(9)",
+            "size": {
+              "height": 45,
+              "width": 231
+            },
+            "title": ""
+          },
+          {
+            "ariaLabel": "",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderRadius": "10px",
+            "className": "w-full flex items-center gap-2 px-2.5 py-1.5 rounded-lg transition-colors text-left group cursor-pointer hover:bg-[oklch(0.922_0_0)] dark:hover:bg-zinc-800/50",
+            "color": "lab(2.75381 0 0)",
+            "hasImg": false,
+            "hasSvg": true,
+            "label": "請幫我撰寫一份關於主題的指引性傳閱公函，對象為對象，內容需包含具體要求。 2026-06-15 15:30:31",
+            "selector": "aside.flex-col.h-dvh > div.flex-1.overflow-y-auto:nth-of-type(3) > div.space-y-0.5:nth-of-type(2) > button.w-full.flex:nth-of-type(10)",
+            "size": {
+              "height": 45,
+              "width": 231
+            },
+            "title": ""
+          },
+          {
+            "ariaLabel": "",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderRadius": "10px",
+            "className": "w-full flex items-center gap-2 px-2.5 py-1.5 rounded-lg transition-colors text-left group cursor-pointer hover:bg-[oklch(0.922_0_0)] dark:hover:bg-zinc-800/50",
+            "color": "lab(2.75381 0 0)",
+            "hasImg": false,
+            "hasSvg": true,
+            "label": "幫我撰寫一篇引人入勝的旅客故事分享文章，主角在旅遊地點經歷了核心事件/體驗。文案需要透過細膩的情感與豐富的細節描繪，展現深刻的旅行體驗，語氣需感性、真實且具啟發",
+            "selector": "aside.flex-col.h-dvh > div.flex-1.overflow-y-auto:nth-of-type(3) > div.space-y-0.5:nth-of-type(2) > button.w-full.flex:nth-of-type(11)",
+            "size": {
+              "height": 45,
+              "width": 231
+            },
+            "title": ""
+          },
+          {
+            "ariaLabel": "",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderRadius": "10px",
+            "className": "w-full flex items-center gap-2 px-2.5 py-1.5 rounded-lg transition-colors text-left group cursor-pointer hover:bg-[oklch(0.922_0_0)] dark:hover:bg-zinc-800/50",
+            "color": "lab(2.75381 0 0)",
+            "hasImg": false,
+            "hasSvg": true,
+            "label": "行政公職局將於下週二召開記者會，正式推出「一戶通」手機應用程式的 2026 年度重大升級。本次升級核心亮點為「全面引入 AI 智能客服」，市民可透過語音直接查詢",
+            "selector": "aside.flex-col.h-dvh > div.flex-1.overflow-y-auto:nth-of-type(3) > div.space-y-0.5:nth-of-type(2) > button.w-full.flex:nth-of-type(12)",
+            "size": {
+              "height": 45,
+              "width": 231
+            },
+            "title": ""
+          },
+          {
+            "ariaLabel": "",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderRadius": "10px",
+            "className": "flex items-center gap-2 text-sm font-medium text-[#1a1a1a] hover:bg-[#F0EFEB] px-2 py-1 rounded-lg transition-colors cursor-pointer",
+            "color": "rgb(26, 26, 26)",
+            "hasImg": false,
+            "hasSvg": true,
+            "label": "已調用本地知識庫",
+            "selector": "div.flex.h-dvh:nth-of-type(2) > main.flex.min-w-0 > div.hidden.h-10:nth-of-type(1) > button.flex.items-center",
+            "size": {
+              "height": 36,
+              "width": 186
+            },
+            "title": ""
+          },
+          {
+            "ariaLabel": "",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "borderRadius": "18px",
+            "className": "group bg-white rounded-2xl p-4 border border-[#E8E6E1] hover:border-[#D8D6D1] hover:shadow-sm transition-all text-left",
+            "color": "lab(2.75381 0 0)",
+            "hasImg": false,
+            "hasSvg": true,
+            "label": "新聞稿 針對 [特定政策/活動]，起草一份對外發布的官方新聞稿",
+            "selector": "div.w-full.max-w-3xl > div.flex.flex-col > div.grid.grid-cols-1:nth-of-type(2) > button.group.bg-white:nth-of-type(1)",
+            "size": {
+              "height": 106,
+              "width": 250
+            },
+            "title": ""
+          },
+          {
+            "ariaLabel": "",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "borderRadius": "18px",
+            "className": "group bg-white rounded-2xl p-4 border border-[#E8E6E1] hover:border-[#D8D6D1] hover:shadow-sm transition-all text-left",
+            "color": "lab(2.75381 0 0)",
+            "hasImg": false,
+            "hasSvg": true,
+            "label": "公文公函 撰寫一份指引性傳閱公函，對象為所有政府部門，內容需包含培訓工作坊的對象、時間、地點、形式等，列點式產出",
+            "selector": "div.w-full.max-w-3xl > div.flex.flex-col > div.grid.grid-cols-1:nth-of-type(2) > button.group.bg-white:nth-of-type(2)",
+            "size": {
+              "height": 106,
+              "width": 250
+            },
+            "title": ""
+          },
+          {
+            "ariaLabel": "",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "borderRadius": "18px",
+            "className": "group bg-white rounded-2xl p-4 border border-[#E8E6E1] hover:border-[#D8D6D1] hover:shadow-sm transition-all text-left",
+            "color": "lab(2.75381 0 0)",
+            "hasImg": false,
+            "hasSvg": true,
+            "label": "長官致辭稿 根據 [特定活動/活動]，為局長撰寫 3 分鐘致辞稿",
+            "selector": "div.w-full.max-w-3xl > div.flex.flex-col > div.grid.grid-cols-1:nth-of-type(2) > button.group.bg-white:nth-of-type(3)",
+            "size": {
+              "height": 106,
+              "width": 250
+            },
+            "title": ""
+          },
+          {
+            "ariaLabel": "",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "borderRadius": "18px",
+            "className": "group bg-white rounded-2xl p-4 border border-[#E8E6E1] hover:border-[#D8D6D1] hover:shadow-sm transition-all text-left",
+            "color": "lab(2.75381 0 0)",
+            "hasImg": false,
+            "hasSvg": true,
+            "label": "政策摘要 將這份 50 頁的 [政策評估報告] 摘要成 300 字的重點，供主管快速審閱",
+            "selector": "div.w-full.max-w-3xl > div.flex.flex-col > div.grid.grid-cols-1:nth-of-type(2) > button.group.bg-white:nth-of-type(4)",
+            "size": {
+              "height": 106,
+              "width": 250
+            },
+            "title": ""
+          },
+          {
+            "ariaLabel": "",
+            "backgroundColor": "lab(96.52 -0.0000298023 0.0000119209)",
+            "borderRadius": "3.35544e+07px",
+            "className": "hidden md:flex items-center justify-center w-8 h-8 rounded-full transition-all duration-150 cursor-pointer origin-center active:scale-[0.97] bg-secondary text-muted-foreground hover:text-foreground hover:bg-muted",
+            "color": "lab(48.496 0 0)",
+            "hasImg": false,
+            "hasSvg": true,
+            "label": "附加參考",
+            "selector": "div.grid.grid-cols-[1fr_auto] > div.col-start-1.row-start-2:nth-of-type(2) > div.relative.shrink-0:nth-of-type(1) > button.hidden.md:flex:nth-of-type(2)",
+            "size": {
+              "height": 32,
+              "width": 32
+            },
+            "title": "附加參考"
+          },
+          {
+            "ariaLabel": "",
+            "backgroundColor": "lab(96.52 -0.0000298023 0.0000119209)",
+            "borderRadius": "3.35544e+07px",
+            "className": "hidden cursor-pointer md:flex items-center gap-1 h-8 px-3 rounded-full text-[13px] font-medium transition-colors duration-150 origin-center active:scale-[0.97] bg-secondary text-muted-foreground hover:text-foreground hover:bg-muted disabled:opacity-50 disabled:cursor-not-allowed",
+            "color": "lab(48.496 0 0)",
+            "hasImg": false,
+            "hasSvg": true,
+            "label": "使用模板",
+            "selector": "div.bg-white.dark:bg-zinc-900 > div.grid.grid-cols-[1fr_auto] > div.col-start-1.row-start-2:nth-of-type(2) > button.hidden.cursor-pointer:nth-of-type(1)",
+            "size": {
+              "height": 32,
+              "width": 70
+            },
+            "title": "使用模板"
+          },
+          {
+            "ariaLabel": "",
+            "backgroundColor": "lab(96.52 -0.0000298023 0.0000119209)",
+            "borderRadius": "3.35544e+07px",
+            "className": "flex items-center gap-1 h-8 px-3 rounded-full text-[13px] font-medium cursor-pointer transition-colors duration-150 origin-center active:scale-[0.97] bg-secondary text-muted-foreground hover:text-foreground hover:bg-muted disabled:opacity-50 disabled:cursor-not-allowed",
+            "color": "lab(48.496 0 0)",
+            "hasImg": false,
+            "hasSvg": true,
+            "label": "通用助手",
+            "selector": "div.hidden.md:block:nth-of-type(2) > div.relative > div.flex.items-center > button.flex.items-center",
+            "size": {
+              "height": 32,
+              "width": 114
+            },
+            "title": ""
+          },
+          {
+            "ariaLabel": "",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderRadius": "3.35544e+07px",
+            "className": "inline-flex items-center gap-1 rounded-full px-3 py-1.5 cursor-pointer text-sm font-medium transition-all duration-150 origin-center active:scale-[0.97] text-foreground/70 hover:text-foreground hover:bg-secondary disabled:opacity-50 disabled:cursor-not-allowed",
+            "color": "oklab(0.145 -0.00000143796 0.00000340492 / 0.7)",
+            "hasImg": false,
+            "hasSvg": true,
+            "label": "Qwen 3.6 27B · 標準",
+            "selector": "div.bg-white.dark:bg-zinc-900 > div.grid.grid-cols-[1fr_auto] > div.col-start-2.row-start-2:nth-of-type(3) > button.inline-flex.items-center:nth-of-type(1)",
+            "size": {
+              "height": 32,
+              "width": 185
+            },
+            "title": ""
+          },
+          {
+            "ariaLabel": "",
+            "backgroundColor": "lab(96.52 -0.0000298023 0.0000119209)",
+            "borderRadius": "3.35544e+07px",
+            "className": "flex items-center justify-center w-10 h-10 md:w-8 md:h-8 min-w-[44px] min-h-[44px] md:min-w-0 md:min-h-0 rounded-full transition-all duration-150 origin-center active:scale-[0.97] disabled:opacity-50 cursor-pointer bg-secondary text-muted-foreground/40",
+            "color": "oklab(0.555999 -0.00000530481 0.000012964 / 0.4)",
+            "hasImg": false,
+            "hasSvg": true,
+            "label": "發送",
+            "selector": "div.bg-white.dark:bg-zinc-900 > div.grid.grid-cols-[1fr_auto] > div.col-start-2.row-start-2:nth-of-type(3) > button.flex.items-center:nth-of-type(2)",
+            "size": {
+              "height": 32,
+              "width": 32
+            },
+            "title": "發送"
+          }
+        ],
+        "svgSymbols": [],
+        "svgUseReferences": []
+      },
+      "metrics": {
+        "consoleErrors": 0,
+        "deadClicks": 1,
+        "maxScrollDepth": 0,
+        "modalAbandons": 0,
+        "networkErrors": 0,
+        "rageClicks": 0,
+        "timeToFirstAction": 1427
+      },
+      "pageTitle": "TIGA",
+      "performance": {
+        "capturedAt": "2026-06-16T03:39:24.135Z",
+        "domContentLoaded": 170,
+        "firstContentfulPaint": 1436,
+        "loadComplete": 997,
+        "url": "https://create-web.dev.ersinfotech.com/chat"
+      },
+      "route": "/chat",
+      "sessionId": "ux-1781581164169-f3821718b81998",
+      "sessionKey": "778034551:/chat",
+      "startedAt": "2026-06-16T03:39:24.169Z",
+      "styleSnapshot": {
+        "capturedAt": "2026-06-16T03:39:24.135Z",
+        "componentStyles": {
+          "badges": [],
+          "buttons": [
+            {
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "borderColor": "lab(90.952 0 -0.0000119209)",
+              "borderRadius": "8px",
+              "boxShadow": "none",
+              "color": "lab(65.6464 1.53497 -5.42429)",
+              "display": "block",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "label": "收合側邊欄",
+              "lineHeight": "24px",
+              "margin": "0px 0px 0px 0px",
+              "padding": "4px 4px 4px 4px",
+              "position": "static",
+              "selector": "div.flex.h-dvh:nth-of-type(2) > aside.flex-col.h-dvh > div.h-10.flex:nth-of-type(1) > button.cursor-pointer.p-1",
+              "size": {
+                "height": 24,
+                "width": 24
+              },
+              "tagName": "button",
+              "zIndex": "auto"
+            },
+            {
+              "backgroundColor": "rgb(255, 255, 255)",
+              "borderColor": "lab(90.952 0 -0.0000119209)",
+              "borderRadius": "10px",
+              "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px",
+              "color": "rgb(26, 26, 26)",
+              "display": "flex",
+              "fontSize": "14px",
+              "fontWeight": "500",
+              "label": "新的生成",
+              "lineHeight": "20px",
+              "margin": "0px 0px 0px 0px",
+              "padding": "8px 10px 8px 10px",
+              "position": "static",
+              "selector": "div.overflow-y-auto.shrink-0:nth-of-type(2) > div.px-3.pt-3:nth-of-type(1) > div.space-y-0.5 > button.cursor-pointer.w-full",
+              "size": {
+                "height": 36,
+                "width": 231
+              },
+              "tagName": "button",
+              "zIndex": "auto"
+            },
+            {
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "borderColor": "lab(90.952 0 -0.0000119209)",
+              "borderRadius": "10px",
+              "boxShadow": "none",
+              "color": "lab(35.1166 1.78212 -6.1173)",
+              "display": "flex",
+              "fontSize": "14px",
+              "fontWeight": "400",
+              "label": "翻譯",
+              "lineHeight": "20px",
+              "margin": "0px 0px 0px 0px",
+              "padding": "8px 10px 8px 10px",
+              "position": "static",
+              "selector": "div.overflow-y-auto.shrink-0:nth-of-type(2) > div.px-3.pt-3:nth-of-type(2) > div.space-y-0.5 > button.cursor-pointer.w-full",
+              "size": {
+                "height": 36,
+                "width": 231
+              },
+              "tagName": "button",
+              "zIndex": "auto"
+            },
+            {
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "borderColor": "lab(90.952 0 -0.0000119209)",
+              "borderRadius": "10px",
+              "boxShadow": "none",
+              "color": "lab(2.75381 0 0)",
+              "display": "flex",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "label": "請幫我撰寫一份關於【公共部門人工智能應用培訓工作坊】的指引性傳閱公函，對象為【所有政府部門】，內容需包含【培訓工作坊的對象、時間、地點、形式等，列點式產出】。 ",
+              "lineHeight": "24px",
+              "margin": "0px 0px 2px 0px",
+              "padding": "6px 10px 6px 10px",
+              "position": "static",
+              "selector": "aside.flex-col.h-dvh > div.flex-1.overflow-y-auto:nth-of-type(3) > div.space-y-0.5:nth-of-type(2) > button.w-full.flex:nth-of-type(1)",
+              "size": {
+                "height": 45,
+                "width": 231
+              },
+              "tagName": "button",
+              "zIndex": "auto"
+            },
+            {
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "borderColor": "lab(90.952 0 -0.0000119209)",
+              "borderRadius": "10px",
+              "boxShadow": "none",
+              "color": "lab(2.75381 0 0)",
+              "display": "flex",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "label": "為局長撰寫出席「澳門大學公共行政培訓中心啟用儀式暨首屆公務人員領導力培訓班開課典禮」的 3 分鐘致辭稿。 2026-06-15 18:37:44",
+              "lineHeight": "24px",
+              "margin": "0px 0px 2px 0px",
+              "padding": "6px 10px 6px 10px",
+              "position": "static",
+              "selector": "aside.flex-col.h-dvh > div.flex-1.overflow-y-auto:nth-of-type(3) > div.space-y-0.5:nth-of-type(2) > button.w-full.flex:nth-of-type(2)",
+              "size": {
+                "height": 45,
+                "width": 231
+              },
+              "tagName": "button",
+              "zIndex": "auto"
+            },
+            {
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "borderColor": "lab(90.952 0 -0.0000119209)",
+              "borderRadius": "10px",
+              "boxShadow": "none",
+              "color": "lab(2.75381 0 0)",
+              "display": "flex",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "label": "幫我針對優化本澳公務人員跨部門橫向調動機制以提升公共行政效能之課題生成一份專業的行政法務類書面質詢稿件。內文需要闡明目前制度或執行上的爭議點，並向相關權責部門提",
+              "lineHeight": "24px",
+              "margin": "0px 0px 2px 0px",
+              "padding": "6px 10px 6px 10px",
+              "position": "static",
+              "selector": "aside.flex-col.h-dvh > div.flex-1.overflow-y-auto:nth-of-type(3) > div.space-y-0.5:nth-of-type(2) > button.w-full.flex:nth-of-type(3)",
+              "size": {
+                "height": 45,
+                "width": 231
+              },
+              "tagName": "button",
+              "zIndex": "auto"
+            },
+            {
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "borderColor": "lab(90.952 0 -0.0000119209)",
+              "borderRadius": "10px",
+              "boxShadow": "none",
+              "color": "lab(2.75381 0 0)",
+              "display": "flex",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "label": "請幫我撰寫一份關於【公共部門人工智能應用培訓工作坊】的指引性傳閱公函，對象為【所有政府部門】，內容需包含【培訓工作坊的對象、時間、地點、形式等，列點式產出】。 ",
+              "lineHeight": "24px",
+              "margin": "0px 0px 2px 0px",
+              "padding": "6px 10px 6px 10px",
+              "position": "static",
+              "selector": "aside.flex-col.h-dvh > div.flex-1.overflow-y-auto:nth-of-type(3) > div.space-y-0.5:nth-of-type(2) > button.w-full.flex:nth-of-type(4)",
+              "size": {
+                "height": 45,
+                "width": 231
+              },
+              "tagName": "button",
+              "zIndex": "auto"
+            },
+            {
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "borderColor": "lab(90.952 0 -0.0000119209)",
+              "borderRadius": "10px",
+              "boxShadow": "none",
+              "color": "lab(2.75381 0 0)",
+              "display": "flex",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "label": "行政公職局將於下週二召開記者會，正式推出「一戶通」手機應用程式的 2026 年度重大升級。本次升級核心亮點為「全面引入 AI 智能客服」，市民可透過語音直接查詢",
+              "lineHeight": "24px",
+              "margin": "0px 0px 2px 0px",
+              "padding": "6px 10px 6px 10px",
+              "position": "static",
+              "selector": "aside.flex-col.h-dvh > div.flex-1.overflow-y-auto:nth-of-type(3) > div.space-y-0.5:nth-of-type(2) > button.w-full.flex:nth-of-type(5)",
+              "size": {
+                "height": 45,
+                "width": 231
+              },
+              "tagName": "button",
+              "zIndex": "auto"
+            },
+            {
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "borderColor": "lab(90.952 0 -0.0000119209)",
+              "borderRadius": "10px",
+              "boxShadow": "none",
+              "color": "lab(2.75381 0 0)",
+              "display": "flex",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "label": "行政公職局將於下週二召開記者會，正式推出「一戶通」手機應用程式的 2026 年度重大升級。本次升級核心亮點為「全面引入 AI 智能客服」，市民可透過語音直接查詢",
+              "lineHeight": "24px",
+              "margin": "0px 0px 2px 0px",
+              "padding": "6px 10px 6px 10px",
+              "position": "static",
+              "selector": "aside.flex-col.h-dvh > div.flex-1.overflow-y-auto:nth-of-type(3) > div.space-y-0.5:nth-of-type(2) > button.w-full.flex:nth-of-type(6)",
+              "size": {
+                "height": 45,
+                "width": 231
+              },
+              "tagName": "button",
+              "zIndex": "auto"
+            },
+            {
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "borderColor": "lab(90.952 0 -0.0000119209)",
+              "borderRadius": "10px",
+              "boxShadow": "none",
+              "color": "lab(2.75381 0 0)",
+              "display": "flex",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "label": "請幫我撰寫一份關於【公共部門人工智能應用培訓工作坊】的指引性傳閱公函，對象為【所有政府部門】，內容需包含【培訓工作坊的對象、時間、地點、形式等，列點式產出】。 ",
+              "lineHeight": "24px",
+              "margin": "0px 0px 2px 0px",
+              "padding": "6px 10px 6px 10px",
+              "position": "static",
+              "selector": "aside.flex-col.h-dvh > div.flex-1.overflow-y-auto:nth-of-type(3) > div.space-y-0.5:nth-of-type(2) > button.w-full.flex:nth-of-type(7)",
+              "size": {
+                "height": 45,
+                "width": 231
+              },
+              "tagName": "button",
+              "zIndex": "auto"
+            },
+            {
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "borderColor": "lab(90.952 0 -0.0000119209)",
+              "borderRadius": "10px",
+              "boxShadow": "none",
+              "color": "lab(2.75381 0 0)",
+              "display": "flex",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "label": "行政公職局將於下週二召開記者會，正式推出「一戶通」手機應用程式的 2026 年度重大升級。本次升級核心亮點為「全面引入 AI 智能客服」，市民可透過語音直接查詢",
+              "lineHeight": "24px",
+              "margin": "0px 0px 2px 0px",
+              "padding": "6px 10px 6px 10px",
+              "position": "static",
+              "selector": "aside.flex-col.h-dvh > div.flex-1.overflow-y-auto:nth-of-type(3) > div.space-y-0.5:nth-of-type(2) > button.w-full.flex:nth-of-type(8)",
+              "size": {
+                "height": 45,
+                "width": 231
+              },
+              "tagName": "button",
+              "zIndex": "auto"
+            },
+            {
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "borderColor": "lab(90.952 0 -0.0000119209)",
+              "borderRadius": "10px",
+              "boxShadow": "none",
+              "color": "lab(2.75381 0 0)",
+              "display": "flex",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "label": "行政公職局將於下週二召開記者會，正式推出「一戶通」手機應用程式的 2026 年度重大升級。本次升級核心亮點為「全面引入 AI 智能客服」，市民可透過語音直接查詢",
+              "lineHeight": "24px",
+              "margin": "0px 0px 2px 0px",
+              "padding": "6px 10px 6px 10px",
+              "position": "static",
+              "selector": "aside.flex-col.h-dvh > div.flex-1.overflow-y-auto:nth-of-type(3) > div.space-y-0.5:nth-of-type(2) > button.w-full.flex:nth-of-type(9)",
+              "size": {
+                "height": 45,
+                "width": 231
+              },
+              "tagName": "button",
+              "zIndex": "auto"
+            }
+          ],
+          "cards": [],
+          "inputs": [
+            {
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "borderColor": "lab(90.952 0 -0.0000119209)",
+              "borderRadius": "0px",
+              "boxShadow": "none",
+              "color": "lab(2.75381 0 0)",
+              "display": "block",
+              "fontSize": "13px",
+              "fontWeight": "400",
+              "label": "輸入訊息...",
+              "lineHeight": "19.5px",
+              "margin": "0px 0px 0px 0px",
+              "padding": "0px 0px 0px 0px",
+              "position": "relative",
+              "selector": "div.col-start-1.col-end-3:nth-of-type(1) > div.relative.overflow-y-visible > div.border-border.relative > textarea.relative.block",
+              "size": {
+                "height": 39,
+                "width": 742
+              },
+              "tagName": "textarea",
+              "zIndex": "auto"
+            }
+          ],
+          "links": [],
+          "modals": [],
+          "navigation": [
+            {
+              "backgroundColor": "rgb(245, 244, 240)",
+              "borderColor": "lab(90.6853 0.399232 -1.45452)",
+              "borderRadius": "0px",
+              "boxShadow": "none",
+              "color": "lab(2.75381 0 0)",
+              "display": "flex",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "label": "新的生成 工具 翻譯 歷史對話 請幫我撰寫一份關於【公共部門人工智能應用培訓工作坊】的指引性傳閱公函，對象為【所有政府部門】，內容需包含【培訓工作坊的對象、時間",
+              "lineHeight": "24px",
+              "margin": "0px 0px 0px 0px",
+              "padding": "0px 0px 0px 0px",
+              "position": "static",
+              "selector": "html.h-full.antialiased > body.min-h-full.flex > div.flex.h-dvh:nth-of-type(2) > aside.flex-col.h-dvh",
+              "size": {
+                "height": 945,
+                "width": 256
+              },
+              "tagName": "aside",
+              "zIndex": "auto"
+            }
+          ]
+        },
+        "cssFiles": [
+          {
+            "crossOrigin": "",
+            "disabled": false,
+            "href": "https://create-web.dev.ersinfotech.com/_next/static/chunks/066jf0nk75nic.css",
+            "media": ""
+          },
+          {
+            "crossOrigin": "",
+            "disabled": false,
+            "href": "https://create-web.dev.ersinfotech.com/_next/static/chunks/04bfutuq6w6ao.css",
+            "media": ""
+          },
+          {
+            "crossOrigin": "",
+            "disabled": false,
+            "href": "https://create-web.dev.ersinfotech.com/_next/static/chunks/0ycvshyl.xl-9.css",
+            "media": ""
+          }
+        ],
+        "cssVariables": {
+          "--accent": "lab(96.52% -.0000298023 .0000119209)",
+          "--amber-1": "#fefdfb",
+          "--amber-10": "#ffba18",
+          "--amber-11": "#ab6400",
+          "--amber-12": "#4f3422",
+          "--amber-2": "#fefbe9",
+          "--amber-3": "#fff7c2",
+          "--amber-8": "#e2a336",
+          "--animate-bounce": "bounce 1s infinite",
+          "--animate-pulse": "pulse 2s cubic-bezier(.4, 0, .6, 1) infinite",
+          "--background": "lab(100% 0 0)",
+          "--blue-10": "#0588f0",
+          "--blue-11": "#0d74ce",
+          "--blue-3": "#e6f4fe",
+          "--blue-6": "#acd8fc",
+          "--blue-8": "#5eb1ef",
+          "--blue-9": "#0090ff",
+          "--border": "lab(90.952% 0 -.0000119209)",
+          "--card": "lab(100% 0 0)",
+          "--chart-1": "lab(57.1026% 64.2584 89.8886)",
+          "--chart-2": "lab(55.0223% -41.0774 -3.90277)",
+          "--chart-3": "lab(30.372% -13.1853 -18.7887)",
+          "--color-amber-100": "lab(95.916% -1.21653 23.111)",
+          "--color-amber-300": "lab(86.4156% 6.13147 78.3961)",
+          "--color-amber-400": "lab(80.1641% 16.6016 99.2089)",
+          "--color-amber-700": "lab(47.2709% 42.9082 69.2966)",
+          "--color-black": "#000",
+          "--color-blue-100": "lab(92.0301% -2.24757 -11.6453)",
+          "--color-blue-300": "lab(77.5052% -6.4629 -36.42)",
+          "--color-blue-400": "lab(65.0361% -1.42065 -56.9802)",
+          "--color-blue-50": "lab(96.492% -1.14644 -5.11479)",
+          "--color-blue-600": "lab(44.0605% 29.0279 -86.0352)",
+          "--color-blue-700": "lab(36.9089% 35.0961 -85.6872)",
+          "--color-blue-800": "lab(30.2514% 27.7853 -70.2699)",
+          "--color-cyan-50": "lab(98.3304% -5.97432 -2.62108)",
+          "--color-cyan-500": "lab(67.805% -35.3952 -30.2018)",
+          "--color-cyan-700": "lab(44.7267% -21.5987 -26.118)",
+          "--color-emerald-200": "lab(90.2247% -31.039 9.47084)",
+          "--color-emerald-50": "lab(97.8462% -6.94966 1.85487)",
+          "--color-emerald-500": "lab(66.9756% -58.27 19.5419)",
+          "--color-emerald-800": "lab(35.3675% -33.1188 8.04002)",
+          "--color-gray-100": "lab(96.1596% -.0823438 -1.13575)",
+          "--color-gray-300": "lab(85.1236% -.612259 -3.7138)",
+          "--color-gray-400": "lab(65.9269% -.832707 -8.17473)",
+          "--color-gray-500": "lab(47.7841% -.393182 -10.0268)",
+          "--color-gray-600": "lab(35.6337% -1.58697 -10.8425)",
+          "--color-green-500": "lab(70.5521% -66.5147 45.8073)",
+          "--color-green-600": "lab(59.0978% -58.6621 41.2579)",
+          "--color-indigo-100": "lab(91.6577% 1.04591 -12.7199)",
+          "--color-indigo-300": "lab(74.0235% 8.54138 -41.6075)",
+          "--color-indigo-400": "lab(59.866% 22.4834 -64.4485)",
+          "--color-indigo-500": "lab(48.295% 38.3129 -81.9673)",
+          "--color-indigo-700": "lab(32.4486% 49.2217 -84.6695)",
+          "--color-orange-50": "lab(97.7008% 1.53735 5.90649)",
+          "--color-orange-500": "lab(64.272% 57.1788 90.3583)",
+          "--color-pink-50": "lab(96.4459% 4.53997 -1.49434)",
+          "--color-red-600": "lab(48.4493% 77.4328 61.5452)",
+          "--color-red-900": "lab(28.5139% 44.5539 29.0463)",
+          "--color-sky-400": "lab(70.687% -23.6078 -45.9483)",
+          "--color-sky-600": "lab(51.7754% -11.4712 -49.8349)",
+          "--color-violet-200": "lab(87.0888% 8.53688 -19.4189)",
+          "--color-violet-50": "lab(96.2416% 2.28849 -5.51657)",
+          "--color-violet-500": "lab(49.9355% 55.1776 -81.8963)",
+          "--color-violet-600": "lab(41.088% 68.9966 -91.995)",
+          "--color-white": "#fff",
+          "--color-yellow-50": "lab(98.6846% -1.79055 9.7766)",
+          "--color-zinc-100": "lab(96.1634% .0993311 -.364041)",
+          "--color-zinc-200": "lab(90.6853% .399232 -1.45452)",
+          "--color-zinc-50": "lab(98.26% 0 0)",
+          "--color-zinc-600": "lab(35.1166% 1.78212 -6.1173)",
+          "--color-zinc-700": "lab(26.8019% 1.35387 -4.68303)",
+          "--color-zinc-900": "lab(8.30603% .618205 -2.16572)",
+          "--color-zinc-950": "lab(2.51107% .242703 -.886115)",
+          "--container-3xl": "48rem",
+          "--container-6xl": "72rem",
+          "--container-md": "28rem",
+          "--cyan-10": "#0797b9",
+          "--cyan-11": "#107d98",
+          "--cyan-2": "#f2fafb",
+          "--cyan-3": "#def7f9",
+          "--cyan-5": "#b5e9f0",
+          "--cyan-7": "#7dcedc",
+          "--default-transition-duration": ".15s",
+          "--default-transition-timing-function": "cubic-bezier(.4, 0, .2, 1)",
+          "--destructive": "lab(48.4493% 77.4328 61.5452)",
+          "--ease-out": "cubic-bezier(0, 0, .2, 1)",
+          "--font-geist-sans": "\"Geist\", \"Geist Fallback\"",
+          "--font-weight-bold": "700",
+          "--grass-1": "#fbfefb",
+          "--grass-10": "#3e9b4f",
+          "--grass-2": "#f5fbf5",
+          "--grass-3": "#e9f6e9",
+          "--grass-4": "#daf1db",
+          "--grass-5": "#c9e8ca",
+          "--grass-6": "#b2ddb5",
+          "--grass-7": "#94ce9a",
+          "--grass-8": "#65ba74",
+          "--leading-relaxed": "1.625",
+          "--leading-snug": "1.375",
+          "--leading-tight": "1.25",
+          "--muted": "lab(96.52% -.0000298023 .0000119209)",
+          "--popover": "lab(100% 0 0)",
+          "--popover-foreground": "lab(2.75381% 0 0)",
+          "--primary": "lab(7.78201% -.0000149012 0)",
+          "--primary-foreground": "lab(98.26% 0 0)",
+          "--red-1": "#fffcfc",
+          "--red-10": "#dc3e42",
+          "--red-12": "#641723",
+          "--red-4": "#ffdbdc",
+          "--red-5": "#ffcdce",
+          "--red-6": "#fdbdbe",
+          "--red-7": "#f4a9aa",
+          "--red-8": "#eb8e90",
+          "--secondary-foreground": "lab(7.78201% -.0000149012 0)",
+          "--sidebar-border": "lab(90.952% 0 -.0000119209)",
+          "--sidebar-primary": "lab(7.78201% -.0000149012 0)",
+          "--sidebar-primary-foreground": "lab(98.26% 0 0)",
+          "--sidebar-ring": "lab(66.128% -.0000298023 .0000119209)",
+          "--slate-1": "#fcfcfd",
+          "--slate-10": "#80838d",
+          "--slate-12": "#1c2024",
+          "--slate-2": "#f9f9fb",
+          "--slate-3": "#f0f0f3",
+          "--slate-7": "#cdced6",
+          "--spacing": ".25rem",
+          "--text-2xl": "1.5rem",
+          "--text-2xl--line-height": "calc(2 / 1.5)",
+          "--text-base--line-height": "calc(1.5 / 1)",
+          "--text-sm": ".875rem",
+          "--text-xl": "1.25rem",
+          "--text-xl--line-height": "calc(1.75 / 1.25)",
+          "--text-xs--line-height": "calc(1 / .75)",
+          "--tracking-tight": "-.025em",
+          "--tracking-wider": ".05em",
+          "--tw-animation-delay": "0s",
+          "--tw-animation-iteration-count": "1",
+          "--tw-border-style": "solid",
+          "--tw-enter-blur": "0",
+          "--tw-enter-rotate": "0",
+          "--tw-enter-scale": "1",
+          "--tw-exit-opacity": "1",
+          "--tw-exit-translate-x": "0",
+          "--tw-exit-translate-y": "0",
+          "--tw-gradient-from": "rgba(0, 0, 0, 0)",
+          "--tw-gradient-to": "rgba(0, 0, 0, 0)",
+          "--tw-gradient-to-position": "100%",
+          "--tw-gradient-via": "rgba(0, 0, 0, 0)",
+          "--tw-gradient-via-position": "50%",
+          "--tw-inset-ring-shadow": "0 0 #0000",
+          "--tw-inset-shadow": "0 0 #0000",
+          "--tw-inset-shadow-alpha": "100%",
+          "--tw-outline-style": "solid",
+          "--tw-ring-shadow": "0 0 #0000",
+          "--tw-scale-y": "1",
+          "--tw-shadow-alpha": "100%",
+          "--tw-space-x-reverse": "0",
+          "--tw-space-y-reverse": "0",
+          "--tw-translate-x": "0",
+          "--tw-translate-y": "0",
+          "--tw-translate-z": "0"
+        },
+        "designTokens": {
+          "backgroundColors": [
+            {
+              "count": 10,
+              "value": "lab(97.8462 -6.94966 1.85487)"
+            },
+            {
+              "count": 10,
+              "value": "lab(55.0481 -49.9246 15.93)"
+            },
+            {
+              "count": 7,
+              "value": "rgb(255, 255, 255)"
+            },
+            {
+              "count": 4,
+              "value": "lab(96.52 -0.0000298023 0.0000119209)"
+            },
+            {
+              "count": 3,
+              "value": "rgb(250, 250, 248)"
+            },
+            {
+              "count": 2,
+              "value": "lab(98.6846 -1.79055 9.7766)"
+            },
+            {
+              "count": 1,
+              "value": "lab(100 0 0)"
+            },
+            {
+              "count": 1,
+              "value": "rgb(245, 244, 240)"
+            },
+            {
+              "count": 1,
+              "value": "lab(96.5005 4.18508 1.52328)"
+            },
+            {
+              "count": 1,
+              "value": "lab(55.4814 75.0732 48.8528)"
+            },
+            {
+              "count": 1,
+              "value": "lab(15.7305 0.613764 -2.16959)"
+            },
+            {
+              "count": 1,
+              "value": "lab(92.0301 -2.24757 -11.6453)"
+            },
+            {
+              "count": 1,
+              "value": "lab(91.6577 1.04591 -12.7199)"
+            },
+            {
+              "count": 1,
+              "value": "lab(96.1861 -13.8464 6.52365)"
+            },
+            {
+              "count": 1,
+              "value": "lab(93.3333 6.97437 -9.83434)"
+            }
+          ],
+          "borders": [
+            {
+              "count": 155,
+              "value": "lab(90.952 0 -0.0000119209)"
+            },
+            {
+              "count": 4,
+              "value": "lab(90.6853 0.399232 -1.45452)"
+            },
+            {
+              "count": 4,
+              "value": "rgb(232, 230, 225)"
+            }
+          ],
+          "colors": [
+            {
+              "count": 91,
+              "value": "lab(2.75381 0 0)"
+            },
+            {
+              "count": 47,
+              "value": "lab(65.6464 1.53497 -5.42429)"
+            },
+            {
+              "count": 12,
+              "value": "lab(26.8019 1.35387 -4.68303)"
+            },
+            {
+              "count": 6,
+              "value": "rgb(26, 26, 26)"
+            },
+            {
+              "count": 3,
+              "value": "lab(48.496 0 0)"
+            },
+            {
+              "count": 1,
+              "value": "lab(35.1166 1.78212 -6.1173)"
+            },
+            {
+              "count": 1,
+              "value": "rgb(255, 255, 255)"
+            },
+            {
+              "count": 1,
+              "value": "oklab(0.145 -0.00000143796 0.00000340492 / 0.7)"
+            },
+            {
+              "count": 1,
+              "value": "oklab(0.555999 -0.00000530481 0.000012964 / 0.4)"
+            }
+          ],
+          "fontFamilies": [
+            {
+              "count": 163,
+              "value": "Geist, \"Geist Fallback\""
+            }
+          ],
+          "fontSizes": [
+            {
+              "count": 125,
+              "value": "16px"
+            },
+            {
+              "count": 13,
+              "value": "12px"
+            },
+            {
+              "count": 13,
+              "value": "10px"
+            },
+            {
+              "count": 8,
+              "value": "14px"
+            },
+            {
+              "count": 4,
+              "value": "13px"
+            }
+          ],
+          "fontWeights": [
+            {
+              "count": 152,
+              "value": "400"
+            },
+            {
+              "count": 11,
+              "value": "500"
+            }
+          ],
+          "lineHeights": [
+            {
+              "count": 125,
+              "value": "24px"
+            },
+            {
+              "count": 13,
+              "value": "16px"
+            },
+            {
+              "count": 12,
+              "value": "15px"
+            },
+            {
+              "count": 8,
+              "value": "20px"
+            },
+            {
+              "count": 4,
+              "value": "19.5px"
+            },
+            {
+              "count": 1,
+              "value": "13.3333px"
+            }
+          ],
+          "radii": [
+            {
+              "count": 107,
+              "value": "0px"
+            },
+            {
+              "count": 19,
+              "value": "10px"
+            },
+            {
+              "count": 17,
+              "value": "3.35544e+07px"
+            },
+            {
+              "count": 15,
+              "value": "8px"
+            },
+            {
+              "count": 5,
+              "value": "18px"
+            }
+          ],
+          "shadows": [
+            {
+              "count": 1,
+              "value": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1"
+            },
+            {
+              "count": 1,
+              "value": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.05) 0px "
+            }
+          ],
+          "spacings": [
+            {
+              "count": 1046,
+              "value": "0px"
+            },
+            {
+              "count": 78,
+              "value": "6px"
+            },
+            {
+              "count": 67,
+              "value": "2px"
+            },
+            {
+              "count": 28,
+              "value": "10px"
+            },
+            {
+              "count": 24,
+              "value": "12px"
+            },
+            {
+              "count": 20,
+              "value": "16px"
+            },
+            {
+              "count": 18,
+              "value": "8px"
+            },
+            {
+              "count": 8,
+              "value": "4px"
+            },
+            {
+              "count": 6,
+              "value": "24px"
+            },
+            {
+              "count": 4,
+              "value": "32px"
+            },
+            {
+              "count": 2,
+              "value": "448px"
+            },
+            {
+              "count": 2,
+              "value": "400px"
+            },
+            {
+              "count": 1,
+              "value": "144px"
+            }
+          ]
+        },
+        "inlineStyleCount": 5,
+        "linkStylesheetCount": 3,
+        "styleTagCount": 0
+      },
+      "tabId": 778034551,
+      "viewport": {
+        "height": 945,
+        "width": 1920
+      }
+    }
+  ],
+  "htmlSnapshotsIndex": [
+    {
+      "index": 1,
+      "route": "/chat",
+      "url": "https://create-web.dev.ersinfotech.com/chat",
+      "title": "TIGA",
+      "capturedAt": "2026-06-16T03:39:25.047Z"
+    }
+  ]
+}
