@@ -1,0 +1,21 @@
+{
+  "exportedAt": "2026-06-16T04:31:14.929Z",
+  "snapshotCount": 2,
+  "screenshotCount": 1,
+  "snapshots": [
+    {
+      "index": 1,
+      "route": "/chat",
+      "url": "https://create-web.dev.ersinfotech.com/chat",
+      "title": "TIGA",
+      "capturedAt": "2026-06-16T04:27:05.711Z"
+    },
+    {
+      "index": "current",
+      "route": "/translate",
+      "url": "https://create-web.dev.ersinfotech.com/translate",
+      "title": "TIGA",
+      "capturedAt": "2026-06-16T04:31:14.929Z"
+    }
+  ]
+}
