@@ -1,0 +1,182 @@
+{
+  "exportedAt": "2026-06-17T03:12:23.171Z",
+  "snapshotCount": 25,
+  "screenshotCount": 24,
+  "snapshots": [
+    {
+      "index": 1,
+      "route": "/chat?sessionId=019ed38b-f013-72ae-9f3a-3aafe2d03915",
+      "url": "https://create-web.dev.ersinfotech.com/chat?sessionId=019ed38b-f013-72ae-9f3a-3aafe2d03915",
+      "title": "TIGA",
+      "capturedAt": "2026-06-17T03:07:52.006Z"
+    },
+    {
+      "index": 2,
+      "route": "/chat?sessionId=019ed38b-f013-72ae-9f3a-3aafe2d03915",
+      "url": "https://create-web.dev.ersinfotech.com/chat?sessionId=019ed38b-f013-72ae-9f3a-3aafe2d03915",
+      "title": "TIGA",
+      "capturedAt": "2026-06-17T03:07:58.463Z"
+    },
+    {
+      "index": 3,
+      "route": "/chat?sessionId=019ed38b-f013-72ae-9f3a-3aafe2d03915",
+      "url": "https://create-web.dev.ersinfotech.com/chat?sessionId=019ed38b-f013-72ae-9f3a-3aafe2d03915",
+      "title": "TIGA",
+      "capturedAt": "2026-06-17T03:08:06.224Z"
+    },
+    {
+      "index": 4,
+      "route": "/chat?sessionId=019ed38b-f013-72ae-9f3a-3aafe2d03915",
+      "url": "https://create-web.dev.ersinfotech.com/chat?sessionId=019ed38b-f013-72ae-9f3a-3aafe2d03915",
+      "title": "TIGA",
+      "capturedAt": "2026-06-17T03:08:11.778Z"
+    },
+    {
+      "index": 5,
+      "route": "/chat?sessionId=019ed38b-f013-72ae-9f3a-3aafe2d03915",
+      "url": "https://create-web.dev.ersinfotech.com/chat?sessionId=019ed38b-f013-72ae-9f3a-3aafe2d03915",
+      "title": "TIGA",
+      "capturedAt": "2026-06-17T03:08:17.387Z"
+    },
+    {
+      "index": 6,
+      "route": "/chat?sessionId=019ed38b-f013-72ae-9f3a-3aafe2d03915",
+      "url": "https://create-web.dev.ersinfotech.com/chat?sessionId=019ed38b-f013-72ae-9f3a-3aafe2d03915",
+      "title": "TIGA",
+      "capturedAt": "2026-06-17T03:08:23.761Z"
+    },
+    {
+      "index": 7,
+      "route": "/chat?sessionId=019ed38b-f013-72ae-9f3a-3aafe2d03915",
+      "url": "https://create-web.dev.ersinfotech.com/chat?sessionId=019ed38b-f013-72ae-9f3a-3aafe2d03915",
+      "title": "TIGA",
+      "capturedAt": "2026-06-17T03:08:30.984Z"
+    },
+    {
+      "index": 8,
+      "route": "/chat?sessionId=019ed38b-f013-72ae-9f3a-3aafe2d03915",
+      "url": "https://create-web.dev.ersinfotech.com/chat?sessionId=019ed38b-f013-72ae-9f3a-3aafe2d03915",
+      "title": "TIGA",
+      "capturedAt": "2026-06-17T03:08:36.500Z"
+    },
+    {
+      "index": 9,
+      "route": "/chat?sessionId=019ed38b-f013-72ae-9f3a-3aafe2d03915",
+      "url": "https://create-web.dev.ersinfotech.com/chat?sessionId=019ed38b-f013-72ae-9f3a-3aafe2d03915",
+      "title": "TIGA",
+      "capturedAt": "2026-06-17T03:08:42.840Z"
+    },
+    {
+      "index": 10,
+      "route": "/chat?sessionId=019ed38b-f013-72ae-9f3a-3aafe2d03915",
+      "url": "https://create-web.dev.ersinfotech.com/chat?sessionId=019ed38b-f013-72ae-9f3a-3aafe2d03915",
+      "title": "TIGA",
+      "capturedAt": "2026-06-17T03:08:54.642Z"
+    },
+    {
+      "index": 11,
+      "route": "/chat?sessionId=019ed38b-f013-72ae-9f3a-3aafe2d03915",
+      "url": "https://create-web.dev.ersinfotech.com/chat?sessionId=019ed38b-f013-72ae-9f3a-3aafe2d03915",
+      "title": "TIGA",
+      "capturedAt": "2026-06-17T03:09:02.425Z"
+    },
+    {
+      "index": 12,
+      "route": "/chat?sessionId=019ed38b-f013-72ae-9f3a-3aafe2d03915",
+      "url": "https://create-web.dev.ersinfotech.com/chat?sessionId=019ed38b-f013-72ae-9f3a-3aafe2d03915",
+      "title": "TIGA",
+      "capturedAt": "2026-06-17T03:09:07.474Z"
+    },
+    {
+      "index": 13,
+      "route": "/chat?sessionId=019ed38b-f013-72ae-9f3a-3aafe2d03915",
+      "url": "https://create-web.dev.ersinfotech.com/chat?sessionId=019ed38b-f013-72ae-9f3a-3aafe2d03915",
+      "title": "TIGA",
+      "capturedAt": "2026-06-17T03:09:12.455Z"
+    },
+    {
+      "index": 14,
+      "route": "/translate",
+      "url": "https://create-web.dev.ersinfotech.com/translate",
+      "title": "TIGA",
+      "capturedAt": "2026-06-17T03:09:18.298Z"
+    },
+    {
+      "index": 15,
+      "route": "/translate",
+      "url": "https://create-web.dev.ersinfotech.com/translate",
+      "title": "TIGA",
+      "capturedAt": "2026-06-17T03:09:24.079Z"
+    },
+    {
+      "index": 16,
+      "route": "/translate",
+      "url": "https://create-web.dev.ersinfotech.com/translate",
+      "title": "TIGA",
+      "capturedAt": "2026-06-17T03:09:29.882Z"
+    },
+    {
+      "index": 17,
+      "route": "/translate",
+      "url": "https://create-web.dev.ersinfotech.com/translate",
+      "title": "TIGA",
+      "capturedAt": "2026-06-17T03:09:55.955Z"
+    },
+    {
+      "index": 18,
+      "route": "/translate",
+      "url": "https://create-web.dev.ersinfotech.com/translate",
+      "title": "TIGA",
+      "capturedAt": "2026-06-17T03:10:05.901Z"
+    },
+    {
+      "index": 19,
+      "route": "/translate",
+      "url": "https://create-web.dev.ersinfotech.com/translate",
+      "title": "TIGA",
+      "capturedAt": "2026-06-17T03:10:24.593Z"
+    },
+    {
+      "index": 20,
+      "route": "/translate",
+      "url": "https://create-web.dev.ersinfotech.com/translate",
+      "title": "TIGA",
+      "capturedAt": "2026-06-17T03:10:31.500Z"
+    },
+    {
+      "index": 21,
+      "route": "/translate",
+      "url": "https://create-web.dev.ersinfotech.com/translate",
+      "title": "TIGA",
+      "capturedAt": "2026-06-17T03:10:39.464Z"
+    },
+    {
+      "index": 22,
+      "route": "/translate",
+      "url": "https://create-web.dev.ersinfotech.com/translate",
+      "title": "TIGA",
+      "capturedAt": "2026-06-17T03:10:44.657Z"
+    },
+    {
+      "index": 23,
+      "route": "/translate",
+      "url": "https://create-web.dev.ersinfotech.com/translate",
+      "title": "TIGA",
+      "capturedAt": "2026-06-17T03:11:02.247Z"
+    },
+    {
+      "index": 24,
+      "route": "/translate",
+      "url": "https://create-web.dev.ersinfotech.com/translate",
+      "title": "TIGA",
+      "capturedAt": "2026-06-17T03:12:04.053Z"
+    },
+    {
+      "index": "current",
+      "route": "/translate",
+      "url": "https://create-web.dev.ersinfotech.com/translate",
+      "title": "TIGA",
+      "capturedAt": "2026-06-17T03:12:23.171Z"
+    }
+  ]
+}
