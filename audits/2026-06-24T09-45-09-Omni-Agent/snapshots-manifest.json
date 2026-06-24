@@ -1,0 +1,63 @@
+{
+  "exportedAt": "2026-06-24T09:45:09.599Z",
+  "snapshotCount": 8,
+  "screenshotCount": 7,
+  "snapshots": [
+    {
+      "index": 1,
+      "route": "/#hero",
+      "url": "https://omniagent.framer.website/#hero",
+      "title": "Omni Agent",
+      "capturedAt": "2026-06-24T09:43:33.212Z"
+    },
+    {
+      "index": 2,
+      "route": "/#hero",
+      "url": "https://omniagent.framer.website/#hero",
+      "title": "Omni Agent",
+      "capturedAt": "2026-06-24T09:43:34.708Z"
+    },
+    {
+      "index": 3,
+      "route": "/#hero",
+      "url": "https://omniagent.framer.website/#hero",
+      "title": "Omni Agent",
+      "capturedAt": "2026-06-24T09:43:41.939Z"
+    },
+    {
+      "index": 4,
+      "route": "/#hero",
+      "url": "https://omniagent.framer.website/#hero",
+      "title": "Omni Agent",
+      "capturedAt": "2026-06-24T09:43:50.734Z"
+    },
+    {
+      "index": 5,
+      "route": "/#hero",
+      "url": "https://omniagent.framer.website/#hero",
+      "title": "Omni Agent",
+      "capturedAt": "2026-06-24T09:43:56.038Z"
+    },
+    {
+      "index": 6,
+      "route": "/#hero",
+      "url": "https://omniagent.framer.website/#hero",
+      "title": "Omni Agent",
+      "capturedAt": "2026-06-24T09:44:02.398Z"
+    },
+    {
+      "index": 7,
+      "route": "/#hero",
+      "url": "https://omniagent.framer.website/#hero",
+      "title": "Omni Agent",
+      "capturedAt": "2026-06-24T09:44:10.590Z"
+    },
+    {
+      "index": "current",
+      "route": "/",
+      "url": "https://omniagent.framer.website/#hero",
+      "title": "Omni Agent",
+      "capturedAt": "2026-06-24T09:45:09.600Z"
+    }
+  ]
+}
