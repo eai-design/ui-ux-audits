@@ -1,0 +1,403 @@
+{
+  "exportedAt": "2026-06-24T09:45:09.598Z",
+  "tool": "UI/UX Internal Monitor",
+  "version": "2.6.0",
+  "note": "Complete local UI/UX analysis package. No external AI/API was called.",
+  "sessions": [
+    {
+      "events": [
+        {
+          "label": "",
+          "selector": "div:nth-of-type(2) > div.framer-ZpLsX.framer-XcElm > div:nth-of-type(2) > div.framer-13bx6gs.hidden-19lltsq",
+          "timestamp": 102,
+          "type": "modal_open"
+        },
+        {
+          "deadClick": false,
+          "label": "Change",
+          "rageClick": false,
+          "selector": "div:nth-of-type(2) > div.framer-13bx6gs.hidden-19lltsq > div.framer-mds6mt-container > div.framer-Q7EoV.framer-pmtm8y",
+          "tagName": "div",
+          "timestamp": 3004,
+          "type": "click",
+          "x": 527,
+          "y": 138
+        },
+        {
+          "deadClick": false,
+          "label": "Change",
+          "rageClick": false,
+          "selector": "div:nth-of-type(2) > div.framer-13bx6gs.hidden-19lltsq > div.framer-mds6mt-container > div.framer-Q7EoV.framer-pmtm8y",
+          "tagName": "div",
+          "timestamp": 3743,
+          "type": "click",
+          "x": 527,
+          "y": 138
+        },
+        {
+          "actionCompleted": false,
+          "duration": 6710,
+          "selector": "div:nth-of-type(2) > div.framer-ZpLsX.framer-XcElm > div:nth-of-type(2) > div.framer-13bx6gs.hidden-19lltsq",
+          "timestamp": 6812,
+          "type": "modal_close"
+        },
+        {
+          "label": "",
+          "selector": "div:nth-of-type(2) > div.framer-ZpLsX.framer-XcElm > div:nth-of-type(2) > div.framer-13bx6gs.hidden-19lltsq",
+          "timestamp": 7012,
+          "type": "modal_open"
+        },
+        {
+          "actionCompleted": false,
+          "duration": 17,
+          "selector": "div:nth-of-type(2) > div.framer-ZpLsX.framer-XcElm > div:nth-of-type(2) > div.framer-13bx6gs.hidden-19lltsq",
+          "timestamp": 7029,
+          "type": "modal_close"
+        },
+        {
+          "label": "",
+          "selector": "div:nth-of-type(2) > div.framer-ZpLsX.framer-XcElm > div:nth-of-type(2) > div.framer-13bx6gs.hidden-19lltsq",
+          "timestamp": 7139,
+          "type": "modal_open"
+        },
+        {
+          "deadClick": true,
+          "label": "",
+          "rageClick": false,
+          "selector": "div > div > div > img",
+          "tagName": "img",
+          "timestamp": 7353,
+          "type": "click",
+          "x": 958,
+          "y": 262
+        },
+        {
+          "actionCompleted": false,
+          "duration": 1421,
+          "selector": "div:nth-of-type(2) > div.framer-ZpLsX.framer-XcElm > div:nth-of-type(2) > div.framer-13bx6gs.hidden-19lltsq",
+          "timestamp": 8560,
+          "type": "modal_close"
+        },
+        {
+          "deadClick": false,
+          "label": "Qualification Agent",
+          "rageClick": false,
+          "selector": "div.framer-DuDy1.framer-wm01zm > div.framer-1pnh6y8:nth-of-type(1) > div.framer-67vhj6-container:nth-of-type(3) > div.framer-PGnzp.framer-XcElm",
+          "tagName": "div",
+          "timestamp": 14911,
+          "type": "click",
+          "x": 498,
+          "y": 450
+        },
+        {
+          "deadClick": false,
+          "label": "Meeting Agent",
+          "rageClick": false,
+          "selector": "div.framer-DuDy1.framer-wm01zm > div.framer-1pnh6y8:nth-of-type(1) > div.framer-7cgx8x-container:nth-of-type(4) > div.framer-PGnzp.framer-XcElm",
+          "tagName": "div",
+          "timestamp": 15525,
+          "type": "click",
+          "x": 499,
+          "y": 510
+        },
+        {
+          "scrollDepth": 41,
+          "timestamp": 15576,
+          "type": "scroll"
+        },
+        {
+          "deadClick": false,
+          "label": "CRM & Insights Agent",
+          "rageClick": false,
+          "selector": "div.framer-DuDy1.framer-wm01zm > div.framer-1pnh6y8:nth-of-type(1) > div.framer-1e0zujv-container:nth-of-type(5) > div.framer-PGnzp.framer-XcElm",
+          "tagName": "div",
+          "timestamp": 16131,
+          "type": "click",
+          "x": 498,
+          "y": 557
+        },
+        {
+          "deadClick": false,
+          "label": "+",
+          "rageClick": false,
+          "selector": "div > section > div:nth-of-type(2) > button:nth-of-type(2)",
+          "tagName": "button",
+          "timestamp": 19741,
+          "type": "click",
+          "x": 555,
+          "y": 297
+        },
+        {
+          "scrollDepth": 50,
+          "timestamp": 20170,
+          "type": "scroll"
+        },
+        {
+          "deadClick": false,
+          "label": "on",
+          "rageClick": false,
+          "selector": "section > div:nth-of-type(1) > label > input",
+          "tagName": "input",
+          "timestamp": 20397,
+          "type": "click",
+          "x": 524,
+          "y": 162
+        },
+        {
+          "duration": 502,
+          "hasValue": true,
+          "label": "on",
+          "selector": "section > div:nth-of-type(1) > label > input",
+          "timestamp": 20898,
+          "type": "input_blur"
+        },
+        {
+          "deadClick": false,
+          "label": "on",
+          "rageClick": false,
+          "selector": "section > div:nth-of-type(1) > label > input",
+          "tagName": "input",
+          "timestamp": 21019,
+          "type": "click",
+          "x": 467,
+          "y": 174
+        },
+        {
+          "duration": 334,
+          "hasValue": true,
+          "label": "on",
+          "selector": "section > div:nth-of-type(1) > label > input",
+          "timestamp": 21353,
+          "type": "input_blur"
+        },
+        {
+          "deadClick": false,
+          "label": "on",
+          "rageClick": true,
+          "selector": "section > div:nth-of-type(1) > label > input",
+          "tagName": "input",
+          "timestamp": 21461,
+          "type": "click",
+          "x": 511,
+          "y": 175
+        },
+        {
+          "label": "35",
+          "selector": "div > section > div:nth-of-type(2) > input",
+          "timestamp": 22354,
+          "type": "input_focus"
+        },
+        {
+          "deadClick": false,
+          "label": "11",
+          "rageClick": false,
+          "selector": "div > section > div:nth-of-type(2) > input",
+          "tagName": "input",
+          "timestamp": 23272,
+          "type": "click",
+          "x": 683,
+          "y": 304
+        },
+        {
+          "deadClick": false,
+          "label": "Download Report",
+          "rageClick": false,
+          "selector": "div > aside > div > button",
+          "tagName": "button",
+          "timestamp": 24111,
+          "type": "click",
+          "x": 1220,
+          "y": 562
+        },
+        {
+          "deadClick": true,
+          "label": "Advanced inputs",
+          "rageClick": false,
+          "selector": "div > section > details > summary",
+          "tagName": "summary",
+          "timestamp": 27748,
+          "type": "click",
+          "x": 709,
+          "y": 264
+        },
+        {
+          "scrollDepth": 52,
+          "timestamp": 28747,
+          "type": "scroll"
+        },
+        {
+          "deadClick": false,
+          "label": "Founders & Startups",
+          "rageClick": false,
+          "selector": "div.framer-131ucw5:nth-of-type(1) > div.framer-8xh7ji:nth-of-type(2) > div.framer-14vqkiy-container:nth-of-type(2) > div.framer-lVlG9.framer-6u9sA",
+          "tagName": "div",
+          "timestamp": 32642,
+          "type": "click",
+          "x": 844,
+          "y": 374
+        },
+        {
+          "deadClick": false,
+          "label": "Account Executives",
+          "rageClick": false,
+          "selector": "div.framer-131ucw5:nth-of-type(1) > div.framer-8xh7ji:nth-of-type(2) > div.framer-1fnxtwr-container:nth-of-type(3) > div.framer-lVlG9.framer-6u9sA",
+          "tagName": "div",
+          "timestamp": 33322,
+          "type": "click",
+          "x": 1035,
+          "y": 358
+        },
+        {
+          "scrollDepth": 58,
+          "timestamp": 33616,
+          "type": "scroll"
+        },
+        {
+          "deadClick": false,
+          "label": "Marketing Teams",
+          "rageClick": false,
+          "selector": "div.framer-131ucw5:nth-of-type(1) > div.framer-8xh7ji:nth-of-type(2) > div.framer-fs0llp-container:nth-of-type(4) > div.framer-lVlG9.framer-6u9sA",
+          "tagName": "div",
+          "timestamp": 33904,
+          "type": "click",
+          "x": 1232,
+          "y": 367
+        },
+        {
+          "deadClick": false,
+          "label": "RevOps",
+          "rageClick": false,
+          "selector": "div.framer-131ucw5:nth-of-type(1) > div.framer-8xh7ji:nth-of-type(2) > div.framer-1qzg97z-container:nth-of-type(5) > div.framer-lVlG9.framer-6u9sA",
+          "tagName": "div",
+          "timestamp": 34414,
+          "type": "click",
+          "x": 1470,
+          "y": 365
+        },
+        {
+          "deadClick": true,
+          "label": "How Omni Agent drives growth for every role Sales Development (SDRs) Founders & ",
+          "rageClick": false,
+          "selector": "div:nth-of-type(1) > div.framer-AK95Q.framer-kjhip:nth-of-type(1) > div.framer-ZpLsX.framer-XcElm:nth-of-type(1) > div.framer-b9ucjx:nth-of-type(9)",
+          "tagName": "div",
+          "timestamp": 35371,
+          "type": "click",
+          "x": 1553,
+          "y": 723
+        },
+        {
+          "deadClick": false,
+          "label": "",
+          "rageClick": false,
+          "selector": "div.framer-fhg8pn-container.hidden-zxg8hz > div.framer-rVBU6.framer-17omwba > div.framer-eexps3-container:nth-of-type(2) > div.framer-MQS7l.framer-85e00r",
+          "tagName": "div",
+          "timestamp": 35857,
+          "type": "click",
+          "x": 1545,
+          "y": 723
+        },
+        {
+          "deadClick": false,
+          "label": "Personalise",
+          "rageClick": false,
+          "selector": "div.framer-fuciyl:nth-of-type(1) > div.framer-lqfyin:nth-of-type(2) > div.framer-4jj7yo-container:nth-of-type(2) > div.framer-vPgmi.framer-Rn8X4",
+          "tagName": "div",
+          "timestamp": 39542,
+          "type": "click",
+          "x": 971,
+          "y": 382
+        },
+        {
+          "scrollDepth": 64,
+          "timestamp": 40460,
+          "type": "scroll"
+        },
+        {
+          "scrollDepth": 70,
+          "timestamp": 43322,
+          "type": "scroll"
+        }
+      ],
+      "iconSnapshot": null,
+      "metrics": {
+        "consoleErrors": 0,
+        "deadClicks": 3,
+        "maxScrollDepth": 70,
+        "modalAbandons": 3,
+        "networkErrors": 0,
+        "rageClicks": 1,
+        "timeToFirstAction": 3004
+      },
+      "pageTitle": "Omni Agent",
+      "performance": {
+        "capturedAt": "2026-06-24T09:44:14.387Z",
+        "domContentLoaded": 1341,
+        "firstContentfulPaint": 1140,
+        "loadComplete": 3015,
+        "url": "https://omniagent.framer.website/"
+      },
+      "route": "/#hero",
+      "sessionId": "ux-1782294211736-5d1d587220b8b",
+      "sessionKey": "778036756:/#hero",
+      "startedAt": "2026-06-24T09:43:31.736Z",
+      "styleSnapshot": null,
+      "tabId": 778036756,
+      "uiStructureSnapshot": null,
+      "viewport": {
+        "height": 945,
+        "width": 1920
+      }
+    }
+  ],
+  "htmlSnapshotsIndex": [
+    {
+      "index": 1,
+      "route": "/#hero",
+      "url": "https://omniagent.framer.website/#hero",
+      "title": "Omni Agent",
+      "capturedAt": "2026-06-24T09:43:33.212Z"
+    },
+    {
+      "index": 2,
+      "route": "/#hero",
+      "url": "https://omniagent.framer.website/#hero",
+      "title": "Omni Agent",
+      "capturedAt": "2026-06-24T09:43:34.708Z"
+    },
+    {
+      "index": 3,
+      "route": "/#hero",
+      "url": "https://omniagent.framer.website/#hero",
+      "title": "Omni Agent",
+      "capturedAt": "2026-06-24T09:43:41.939Z"
+    },
+    {
+      "index": 4,
+      "route": "/#hero",
+      "url": "https://omniagent.framer.website/#hero",
+      "title": "Omni Agent",
+      "capturedAt": "2026-06-24T09:43:50.734Z"
+    },
+    {
+      "index": 5,
+      "route": "/#hero",
+      "url": "https://omniagent.framer.website/#hero",
+      "title": "Omni Agent",
+      "capturedAt": "2026-06-24T09:43:56.038Z"
+    },
+    {
+      "index": 6,
+      "route": "/#hero",
+      "url": "https://omniagent.framer.website/#hero",
+      "title": "Omni Agent",
+      "capturedAt": "2026-06-24T09:44:02.398Z"
+    },
+    {
+      "index": 7,
+      "route": "/#hero",
+      "url": "https://omniagent.framer.website/#hero",
+      "title": "Omni Agent",
+      "capturedAt": "2026-06-24T09:44:10.590Z"
+    }
+  ]
+}
