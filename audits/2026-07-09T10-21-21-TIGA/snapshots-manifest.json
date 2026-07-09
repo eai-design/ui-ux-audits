@@ -1,0 +1,21 @@
+{
+  "exportedAt": "2026-07-09T10:21:21.946Z",
+  "snapshotCount": 2,
+  "screenshotCount": 1,
+  "snapshots": [
+    {
+      "index": 1,
+      "route": "/e-pointbox/my-ideas.html",
+      "url": "https://etools.local.ersinfotech.com/e-pointbox/my-ideas.html",
+      "title": "我的點子 - ideaHub",
+      "capturedAt": "2026-07-09T10:18:56.272Z"
+    },
+    {
+      "index": "current",
+      "route": "/review",
+      "url": "https://create-web.dev.ersinfotech.com/review?sessionId=019f4663-6c18-75cb-bc0f-62476df91def%2B019f4663-6c1a-7358-bf69-f964a75fe915",
+      "title": "TIGA",
+      "capturedAt": "2026-07-09T10:21:21.946Z"
+    }
+  ]
+}
