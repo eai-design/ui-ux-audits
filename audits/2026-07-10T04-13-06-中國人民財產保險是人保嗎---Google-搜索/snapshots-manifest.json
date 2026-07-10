@@ -1,0 +1,28 @@
+{
+  "exportedAt": "2026-07-10T04:13:06.513Z",
+  "snapshotCount": 3,
+  "screenshotCount": 2,
+  "snapshots": [
+    {
+      "index": 1,
+      "route": "/e-pointbox/my-ideas.html",
+      "url": "https://etools.local.ersinfotech.com/e-pointbox/my-ideas.html",
+      "title": "我的點子 - ideaHub",
+      "capturedAt": "2026-07-09T10:18:56.272Z"
+    },
+    {
+      "index": 2,
+      "route": "/ers-infotech/channels/tiga",
+      "url": "https://ecat.ersinfotech.com/ers-infotech/channels/tiga",
+      "title": "TIGA測試 - eRS Group eRS Cat",
+      "capturedAt": "2026-07-10T04:12:49.149Z"
+    },
+    {
+      "index": "current",
+      "route": "/search",
+      "url": "https://www.google.com/search?q=%E4%B8%AD%E5%9C%8B%E4%BA%BA%E6%B0%91%E8%B2%A1%E7%94%A2%E4%BF%9D%E9%9A%AA%E6%98%AF%E4%BA%BA%E4%BF%9D%E5%97%8E&oq=%E4%B8%AD%E5%9C%8B%E4%BA%BA%E6%B0%91%E8%B2%A1%E7%94%A2%E4%BF%9D%E9%9A%AA%E6%98%AF%E4%BA%BA%E4%BF%9D%E5%97%8E&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABjvBTIHCAIQABjvBTIHCAMQABjvBTIHCAQQABjvBTIHCAUQABjvBdIBCTExMjc5ajBqN6gCALACAA&sourceid=chrome&source=chrome.ob&ie=UTF-8",
+      "title": "中國人民財產保險是人保嗎 - Google 搜索",
+      "capturedAt": "2026-07-10T04:13:06.513Z"
+    }
+  ]
+}
