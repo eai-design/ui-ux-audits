@@ -1,0 +1,182 @@
+{
+  "exportedAt": "2026-07-16T09:34:10.815Z",
+  "snapshotCount": 25,
+  "screenshotCount": 24,
+  "snapshots": [
+    {
+      "index": 1,
+      "route": "/review?sessionId=019f6a41-3fa2-74d2-a05b-46a0bac2f420%2B019f6a41-3f9f-734c-ae53-f4cf089c7740",
+      "url": "https://mogov.gptcat.ai/review?sessionId=019f6a41-3fa2-74d2-a05b-46a0bac2f420%2B019f6a41-3f9f-734c-ae53-f4cf089c7740",
+      "title": "TIGA",
+      "capturedAt": "2026-07-16T09:30:42.004Z"
+    },
+    {
+      "index": 2,
+      "route": "/review?sessionId=019f6a41-3fa2-74d2-a05b-46a0bac2f420%2B019f6a41-3f9f-734c-ae53-f4cf089c7740",
+      "url": "https://mogov.gptcat.ai/review?sessionId=019f6a41-3fa2-74d2-a05b-46a0bac2f420%2B019f6a41-3f9f-734c-ae53-f4cf089c7740",
+      "title": "TIGA",
+      "capturedAt": "2026-07-16T09:31:03.642Z"
+    },
+    {
+      "index": 3,
+      "route": "/review?sessionId=019f6a41-3fa2-74d2-a05b-46a0bac2f420%2B019f6a41-3f9f-734c-ae53-f4cf089c7740",
+      "url": "https://mogov.gptcat.ai/review?sessionId=019f6a41-3fa2-74d2-a05b-46a0bac2f420%2B019f6a41-3f9f-734c-ae53-f4cf089c7740",
+      "title": "TIGA",
+      "capturedAt": "2026-07-16T09:31:06.476Z"
+    },
+    {
+      "index": 4,
+      "route": "/assets",
+      "url": "https://mogov.gptcat.ai/assets",
+      "title": "TIGA",
+      "capturedAt": "2026-07-16T09:31:09.662Z"
+    },
+    {
+      "index": 5,
+      "route": "/assets",
+      "url": "https://mogov.gptcat.ai/assets",
+      "title": "TIGA",
+      "capturedAt": "2026-07-16T09:31:10.898Z"
+    },
+    {
+      "index": 6,
+      "route": "/chat?sessionId=019f6a3f-653d-720c-a309-f040c3c5f068",
+      "url": "https://mogov.gptcat.ai/chat?sessionId=019f6a3f-653d-720c-a309-f040c3c5f068",
+      "title": "TIGA",
+      "capturedAt": "2026-07-16T09:31:12.050Z"
+    },
+    {
+      "index": 7,
+      "route": "/chat?sessionId=019f6a3f-653d-720c-a309-f040c3c5f068",
+      "url": "https://mogov.gptcat.ai/chat?sessionId=019f6a3f-653d-720c-a309-f040c3c5f068",
+      "title": "TIGA",
+      "capturedAt": "2026-07-16T09:31:12.896Z"
+    },
+    {
+      "index": 8,
+      "route": "/chat?sessionId=019f6a36-8c29-753a-98f9-68851d5ba96f",
+      "url": "https://mogov.gptcat.ai/chat?sessionId=019f6a36-8c29-753a-98f9-68851d5ba96f",
+      "title": "TIGA",
+      "capturedAt": "2026-07-16T09:31:22.853Z"
+    },
+    {
+      "index": 9,
+      "route": "/chat?sessionId=019f6a36-8c29-753a-98f9-68851d5ba96f",
+      "url": "https://mogov.gptcat.ai/chat?sessionId=019f6a36-8c29-753a-98f9-68851d5ba96f",
+      "title": "TIGA",
+      "capturedAt": "2026-07-16T09:31:23.622Z"
+    },
+    {
+      "index": 10,
+      "route": "/chat?sessionId=019f6a36-8c29-753a-98f9-68851d5ba96f",
+      "url": "https://mogov.gptcat.ai/chat?sessionId=019f6a36-8c29-753a-98f9-68851d5ba96f",
+      "title": "TIGA",
+      "capturedAt": "2026-07-16T09:31:26.487Z"
+    },
+    {
+      "index": 11,
+      "route": "/translate",
+      "url": "https://mogov.gptcat.ai/translate",
+      "title": "TIGA",
+      "capturedAt": "2026-07-16T09:31:48.057Z"
+    },
+    {
+      "index": 12,
+      "route": "/translate",
+      "url": "https://mogov.gptcat.ai/translate",
+      "title": "TIGA",
+      "capturedAt": "2026-07-16T09:31:48.516Z"
+    },
+    {
+      "index": 13,
+      "route": "/translate",
+      "url": "https://mogov.gptcat.ai/translate",
+      "title": "TIGA",
+      "capturedAt": "2026-07-16T09:32:11.197Z"
+    },
+    {
+      "index": 14,
+      "route": "/assets",
+      "url": "https://mogov.gptcat.ai/assets",
+      "title": "TIGA",
+      "capturedAt": "2026-07-16T09:32:13.305Z"
+    },
+    {
+      "index": 15,
+      "route": "/assets",
+      "url": "https://mogov.gptcat.ai/assets",
+      "title": "TIGA",
+      "capturedAt": "2026-07-16T09:32:17.292Z"
+    },
+    {
+      "index": 16,
+      "route": "/assets/7a35bd91-51c2-452d-b47f-7d02b25cd284",
+      "url": "https://mogov.gptcat.ai/assets/7a35bd91-51c2-452d-b47f-7d02b25cd284",
+      "title": "TIGA",
+      "capturedAt": "2026-07-16T09:32:22.175Z"
+    },
+    {
+      "index": 17,
+      "route": "/assets/7a35bd91-51c2-452d-b47f-7d02b25cd284",
+      "url": "https://mogov.gptcat.ai/assets/7a35bd91-51c2-452d-b47f-7d02b25cd284",
+      "title": "TIGA",
+      "capturedAt": "2026-07-16T09:32:22.873Z"
+    },
+    {
+      "index": 18,
+      "route": "/translate",
+      "url": "https://mogov.gptcat.ai/translate",
+      "title": "TIGA",
+      "capturedAt": "2026-07-16T09:32:33.765Z"
+    },
+    {
+      "index": 19,
+      "route": "/translate",
+      "url": "https://mogov.gptcat.ai/translate",
+      "title": "TIGA",
+      "capturedAt": "2026-07-16T09:32:34.867Z"
+    },
+    {
+      "index": 20,
+      "route": "/translate",
+      "url": "https://mogov.gptcat.ai/translate",
+      "title": "TIGA",
+      "capturedAt": "2026-07-16T09:32:39.726Z"
+    },
+    {
+      "index": 21,
+      "route": "/translate",
+      "url": "https://mogov.gptcat.ai/translate",
+      "title": "TIGA",
+      "capturedAt": "2026-07-16T09:33:51.921Z"
+    },
+    {
+      "index": 22,
+      "route": "/translate",
+      "url": "https://mogov.gptcat.ai/translate",
+      "title": "TIGA",
+      "capturedAt": "2026-07-16T09:34:00.126Z"
+    },
+    {
+      "index": 23,
+      "route": "/chat?sessionId=019f6a36-8c29-753a-98f9-68851d5ba96f",
+      "url": "https://mogov.gptcat.ai/chat?sessionId=019f6a36-8c29-753a-98f9-68851d5ba96f",
+      "title": "TIGA",
+      "capturedAt": "2026-07-16T09:34:03.664Z"
+    },
+    {
+      "index": 24,
+      "route": "/chat?sessionId=019f6a36-8c29-753a-98f9-68851d5ba96f",
+      "url": "https://mogov.gptcat.ai/chat?sessionId=019f6a36-8c29-753a-98f9-68851d5ba96f",
+      "title": "TIGA",
+      "capturedAt": "2026-07-16T09:34:07.909Z"
+    },
+    {
+      "index": "current",
+      "route": "/chat",
+      "url": "https://mogov.gptcat.ai/chat?sessionId=019f6a36-8c29-753a-98f9-68851d5ba96f",
+      "title": "TIGA",
+      "capturedAt": "2026-07-16T09:34:10.815Z"
+    }
+  ]
+}
