@@ -1,0 +1,112 @@
+{
+  "exportedAt": "2026-07-17T02:37:47.942Z",
+  "snapshotCount": 15,
+  "screenshotCount": 14,
+  "snapshots": [
+    {
+      "index": 1,
+      "route": "/assets",
+      "url": "https://create-web.dev.ersinfotech.com/assets",
+      "title": "TIGA",
+      "capturedAt": "2026-07-17T02:35:36.232Z"
+    },
+    {
+      "index": 2,
+      "route": "/assets",
+      "url": "https://create-web.dev.ersinfotech.com/assets",
+      "title": "TIGA",
+      "capturedAt": "2026-07-17T02:35:41.149Z"
+    },
+    {
+      "index": 3,
+      "route": "/assets",
+      "url": "https://create-web.dev.ersinfotech.com/assets",
+      "title": "TIGA",
+      "capturedAt": "2026-07-17T02:35:47.256Z"
+    },
+    {
+      "index": 4,
+      "route": "/assets/7a35bd91-51c2-452d-b47f-7d02b25cd284",
+      "url": "https://create-web.dev.ersinfotech.com/assets/7a35bd91-51c2-452d-b47f-7d02b25cd284",
+      "title": "TIGA",
+      "capturedAt": "2026-07-17T02:35:57.813Z"
+    },
+    {
+      "index": 5,
+      "route": "/assets/7a35bd91-51c2-452d-b47f-7d02b25cd284",
+      "url": "https://create-web.dev.ersinfotech.com/assets/7a35bd91-51c2-452d-b47f-7d02b25cd284",
+      "title": "TIGA",
+      "capturedAt": "2026-07-17T02:35:59.157Z"
+    },
+    {
+      "index": 6,
+      "route": "/assets/7a35bd91-51c2-452d-b47f-7d02b25cd284",
+      "url": "https://create-web.dev.ersinfotech.com/assets/7a35bd91-51c2-452d-b47f-7d02b25cd284",
+      "title": "TIGA",
+      "capturedAt": "2026-07-17T02:36:13.449Z"
+    },
+    {
+      "index": 7,
+      "route": "/assets",
+      "url": "https://create-web.dev.ersinfotech.com/assets",
+      "title": "TIGA",
+      "capturedAt": "2026-07-17T02:36:15.887Z"
+    },
+    {
+      "index": 8,
+      "route": "/assets",
+      "url": "https://create-web.dev.ersinfotech.com/assets",
+      "title": "TIGA",
+      "capturedAt": "2026-07-17T02:36:18.433Z"
+    },
+    {
+      "index": 9,
+      "route": "/assets",
+      "url": "https://create-web.dev.ersinfotech.com/assets",
+      "title": "TIGA",
+      "capturedAt": "2026-07-17T02:36:28.991Z"
+    },
+    {
+      "index": 10,
+      "route": "/assets",
+      "url": "https://create-web.dev.ersinfotech.com/assets",
+      "title": "TIGA",
+      "capturedAt": "2026-07-17T02:36:40.126Z"
+    },
+    {
+      "index": 11,
+      "route": "/assets",
+      "url": "https://create-web.dev.ersinfotech.com/assets",
+      "title": "TIGA",
+      "capturedAt": "2026-07-17T02:37:00.181Z"
+    },
+    {
+      "index": 12,
+      "route": "/assets",
+      "url": "https://create-web.dev.ersinfotech.com/assets",
+      "title": "TIGA",
+      "capturedAt": "2026-07-17T02:37:07.777Z"
+    },
+    {
+      "index": 13,
+      "route": "/assets",
+      "url": "https://create-web.dev.ersinfotech.com/assets",
+      "title": "TIGA",
+      "capturedAt": "2026-07-17T02:37:12.822Z"
+    },
+    {
+      "index": 14,
+      "route": "/assets",
+      "url": "https://create-web.dev.ersinfotech.com/assets",
+      "title": "TIGA",
+      "capturedAt": "2026-07-17T02:37:19.231Z"
+    },
+    {
+      "index": "current",
+      "route": "/assets",
+      "url": "https://create-web.dev.ersinfotech.com/assets",
+      "title": "TIGA",
+      "capturedAt": "2026-07-17T02:37:47.942Z"
+    }
+  ]
+}
